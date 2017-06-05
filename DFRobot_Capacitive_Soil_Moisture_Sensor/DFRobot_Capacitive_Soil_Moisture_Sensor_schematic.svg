@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xml="http://www.w3.org/XML/1998/namespace" gorn="0" width="0.8in" version="1.1" x="0px" id="Layer_1" y="0px"  xml:space="preserve" height="0.77825in" enable-background="new 0 0 57.6 56.034" viewBox="0 0 57.6 56.034">
+    <defs id="defs112" />
+    <desc id="desc3" >
+        <referenceFile id="referenceFile5" >water-depth-sensor_SCHEMATIC_v1.svg</referenceFile>
+    </desc>
+    <metadata id="metadata7" >
+        <sfw id="sfw9" >
+            <slices id="slices11" />
+            <sliceSourceBounds width="58.3" bottomLeftOrigin="true" x="-0.35" y="-58.463" id="sliceSourceBounds13"  height="58.813"/>
+        </sfw>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g gorn="0.3" id="schematic" >
+        <g gorn="0.3.0" id="pins" >
+            <line stroke-linejoin="round" gorn="0.3.0.0" id="connector10pin" stroke-linecap="round" stroke="#565656"  fill="none" y1="48.833" stroke-width="0.7" y2="56.034" x1="28.8" x2="28.8"/>
+            <rect gorn="0.3.0.1" width="0.001400000000000006" x="28.7993" id="connector10terminal" y="56.376099" stroke="none"  fill="none" stroke-width="0" height="0.01580200000000001"/>
+            <line stroke-linejoin="round" gorn="0.3.0.2" id="connector8pin" stroke-linecap="round" stroke="#565656"  fill="none" y1="21.6" stroke-width="0.7" y2="21.6" x1="50.399" x2="57.6"/>
+            <rect gorn="0.3.0.3" width="0.01580200000000001" x="57.94209900000001" id="connector8terminal" y="21.5993" stroke="none"  fill="none" stroke-width="0" height="0.001400000000000006"/>
+            <line stroke-linejoin="round" gorn="0.3.0.4" id="line22" stroke-linecap="round" stroke="#565656"  fill="none" y1="43.2" stroke-width="0.7" y2="43.2" display="none" x1="0" x2="7.2"/>
+            <line stroke-linejoin="round" gorn="0.3.0.5" id="connector9pin" stroke-linecap="round" stroke="#565656"  fill="none" y1="7.201" stroke-width="0.7" y2="0" x1="28.8" x2="28.8"/>
+            <rect gorn="0.3.0.6" width="0.001400000000000006" x="28.7993" id="connector9terminal" y="-0.357901" stroke="none"  fill="none" stroke-width="0" height="0.015802"/>
+        </g>
+        <rect style="fill:#ffffff;fill-opacity:1" gorn="0.3.1" width="43.198" x="7.2" id="part_symbol" y="7.2" stroke-linecap="round" stroke="#010101"  stroke-width="0.9002" fill="#FFFFFF" height="41.633"/>
+        <g gorn="0.3.2" id="pin_numbers" >
+            <g  transform="matrix(1 0 0 1 52.7744 20.0605)">
+                <g >
+                    <g gorn="0.3.2.0.0.0" id="g27" >
+                        <g gorn="0.3.2.0.0.0.0" id="g29" >
+                            <g gorn="0.3.2.0.0.0.0.0" id="g31" >
+                                <g gorn="0.3.2.0.0.0.0.0.0" id="text33" font-size="3"  fill="#565656" font-family="DroidSans">
+                                    <text style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.2000002px" gorn="0.3.2.0.0.0.0.0.0.0" x="" y="" id="tspan3059" >1</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="matrix(1 0 0 1 30.1621 3.873)">
+                <g >
+                    <g gorn="0.3.2.1.0.0" id="g35" >
+                        <g gorn="0.3.2.1.0.0.0" id="g37" >
+                            <g gorn="0.3.2.1.0.0.0.0" id="g39" >
+                                <g gorn="0.3.2.1.0.0.0.0.0" id="text41" font-size="3"  fill="#565656" font-family="DroidSans">
+                                    <text style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.2000002px" gorn="0.3.2.1.0.0.0.0.0.0" x="" y="" id="tspan3057" >2</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="matrix(1 0 0 1 30.1621 54.0508)">
+                <g >
+                    <g gorn="0.3.2.2.0.0" id="g43" >
+                        <g gorn="0.3.2.2.0.0.0" id="g45" >
+                            <g gorn="0.3.2.2.0.0.0.0" id="g47" >
+                                <g gorn="0.3.2.2.0.0.0.0.0" id="text49" font-size="3"  fill="#565656" font-family="DroidSans">
+                                    <text style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.2000002px" gorn="0.3.2.2.0.0.0.0.0.0" x="" y="" id="tspan3061" >3</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g gorn="0.3.3" id="pin_labels" >
+            <g  transform="matrix(1 0 0 1 40.7119 51.6191)">
+                <g >
+                    <g gorn="0.3.3.0.0.0" id="g52" >
+                        <g gorn="0.3.3.0.0.0.0" id="g54" >
+                            <g gorn="0.3.3.0.0.0.0.0" id="g56" >
+                                <text gorn="0.3.3.0.0.0.0.0.0" id="text58" font-size="4.5"  fill="#565656" font-family="DroidSans" display="none" enable-background="new    ">Out</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="matrix(1 0 0 1 24.1104 46.8848)">
+                <g >
+                    <g gorn="0.3.3.1.0.0" id="g60" >
+                        <g gorn="0.3.3.1.0.0.0" id="g62" >
+                            <g gorn="0.3.3.1.0.0.0.0" id="g64" >
+                                <g gorn="0.3.3.1.0.0.0.0.0" id="text66" font-size="4.5"  fill="#565656" font-family="DroidSans">
+                                    <text style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.80000029px" gorn="0.3.3.1.0.0.0.0.0.0" x="" y="" id="tspan3861" >Gnd</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="matrix(1 0 0 1 24.9287 12.5352)">
+                <g >
+                    <g gorn="0.3.3.2.0.0" id="g68" >
+                        <g gorn="0.3.3.2.0.0.0" id="g70" >
+                            <g gorn="0.3.3.2.0.0.0.0" id="g72" >
+                                <g gorn="0.3.3.2.0.0.0.0.0" id="g74"  enable-background="new    ">
+                                    <g style="font-size:4.5px;fill:#565656;font-family:DroidSans" gorn="0.3.3.2.0.0.0.0.0.0" id="text76" font-size="4.5" >
+                                        <text style="font-size:4.80000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" gorn="0.3.3.2.0.0.0.0.0.0.0" x="0" y="0" id="tspan3857" >Vcc</text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="matrix(1 0 0 1 42.1768 22.6836)">
+                <g >
+                    <g gorn="0.3.3.3.0.0" id="g80" >
+                        <g gorn="0.3.3.3.0.0.0" id="g82" >
+                            <g gorn="0.3.3.3.0.0.0.0" id="g84" >
+                                <g style="font-size:4.5px;fill:#565656;font-family:DroidSans" gorn="0.3.3.3.0.0.0.0.0" id="text86" font-size="4.5" >
+                                    <text style="font-size:4.80000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" gorn="0.3.3.3.0.0.0.0.0.0" x="3.2000003" y="" id="tspan3859" >A</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="matrix(1 0 0 1 9.2188 44.3721)">
+                <g >
+                    <g gorn="0.3.3.4.0.0" id="g88" >
+                        <g gorn="0.3.3.4.0.0.0" id="g90" >
+                            <g gorn="0.3.3.4.0.0.0.0" id="g92" >
+                                <text gorn="0.3.3.4.0.0.0.0.0" id="text94" font-size="4.5"  fill="#565656" font-family="DroidSans" display="none" enable-background="new    ">In</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g xmlns:xml="http://www.w3.org/XML/1998/namespace" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" gorn="0.3.4" id="text3041" stroke="none" font-size="5.12"  fill="#000000" xml:space="preserve" fill-opacity="1">
+            <text style="font-size:7.20000029px" gorn="0.3.4.0" x="12.244922" y="18.879055" id="tspan3043" >Capacitive</text>
+        </g>
+        <g xmlns:xml="http://www.w3.org/XML/1998/namespace" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" gorn="0.3.5" id="text3045" stroke="none" font-size="5.12"  fill="#000000" xml:space="preserve" fill-opacity="1">
+            <text style="font-size:7.20000029px" gorn="0.3.5.0" x="23.104687" y="26.969061" id="tspan3047" >Soil</text>
+        </g>
+        <g xmlns:xml="http://www.w3.org/XML/1998/namespace" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" gorn="0.3.6" id="text3049" stroke="none" font-size="5.12"  fill="#000000" xml:space="preserve" fill-opacity="1">
+            <text style="font-size:7.20000029px" gorn="0.3.6.0" x="14.146873" y="34.064148" id="tspan3051" >Moisture</text>
+        </g>
+        <g xmlns:xml="http://www.w3.org/XML/1998/namespace" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" gorn="0.3.7" id="text3053" stroke="none" font-size="5.12"  fill="#000000" xml:space="preserve" fill-opacity="1">
+            <text style="font-size:7.20000029px" gorn="0.3.7.0" x="17.627342" y="41.196148" id="tspan3055" >Sensor</text>
+        </g>
+    </g>
+</svg>

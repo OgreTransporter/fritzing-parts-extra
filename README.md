@@ -35,6 +35,18 @@ NodeMCU (http://www.nodemcu.com/) is an open source IoT platform. It includes fi
 
 Download: https://github.com/OgreTransporter/fritzing-parts-extra/raw/master/NodeMCU_v3_LoLin.fzpz
 
+## DFRobot Capacitive Soil Moisture Sensor V1.0
+![Icon](https://github.com/OgreTransporter/fritzing-parts-extra/blob/master/DFRobot_Capacitive_Soil_Moisture_Sensor/DFRobot_Capacitive_Soil_Moisture_Sensor_icon.png)
+![Shop](https://github.com/OgreTransporter/fritzing-parts-extra/blob/master/DFRobot_Capacitive_Soil_Moisture_Sensor/DFRobot_Capacitive_Soil_Moisture_Sensor_picture.jpg)
+
+This product measures soil moisture levels by capacitive sensing, rather than resistive sensing like other types of moisture sensor. It is made of a corrosion resistant material giving it a long service life. Insert it into soil and impress your friends with the real-time soil moisture data!
+
+The product includes an on-board voltage regulator which gives it an operating voltage range of 3.3 ~ 5.5V. It is compatible with low-voltage MCUs (both 3.3V and 5V logic). To make it compatible with a Raspberry Pi, an ADC converter is required.
+
+Website: https://www.dfrobot.com/product-1385.html
+
+Download: https://github.com/OgreTransporter/fritzing-parts-extra/raw/master/DFRobot_Capacitive_Soil_Moisture_Sensor_V1.0.fzpz
+
 # Other custom made parts
 
  * Adafruit: https://github.com/adafruit/Fritzing-Library

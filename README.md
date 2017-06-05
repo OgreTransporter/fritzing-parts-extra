@@ -4,7 +4,7 @@ The aim of this project is to add extra parts to Fritzing.
 # Current parts
 Most parts are cheap modules from China for Arduino and Raspberry Pi. You can find them on Amazon.
 
-Download all: https://github.com/OgreTransporter/fritzing-parts-extra/blob/master/all_parts.fzbz
+Download all: https://github.com/OgreTransporter/fritzing-parts-extra/raw/master/all_parts.fzbz
 
 ## DS18B20 1-Wire Temperature Sensor Module
 ![Icon](https://github.com/OgreTransporter/fritzing-parts-extra/blob/master/DS18B20/DS18B20_icon.png)
@@ -14,7 +14,7 @@ The DS18B20 digital thermometer provides 9-bit to 12-bit Celsius temperature mea
 
 Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to function on the same 1-Wire bus. Thus, it is simple to use one microprocessor to control many DS18B20s distributed over a large area. Applications that can benefit from this feature include HVAC environmental controls, temperature monitoring systems inside buildings, equipment, or machinery, and process monitoring and control systems.
 
-Download: https://github.com/OgreTransporter/fritzing-parts-extra/blob/master/DS18B20_1-Wire_Temperature_Sensor_Module.fzpz
+Download: https://github.com/OgreTransporter/fritzing-parts-extra/raw/master/DS18B20_1-Wire_Temperature_Sensor_Module.fzpz
 
 ## BH1750FVI GY-30 Digital Light Sensor Module
 ![Icon](https://github.com/OgreTransporter/fritzing-parts-extra/blob/master/BH1750FVI_GY-30/BH1750FVI_GY-30_icon.png)
@@ -22,7 +22,7 @@ Download: https://github.com/OgreTransporter/fritzing-parts-extra/blob/master/DS
 
 BH1750FVI is an digital Ambient Light Sensor IC for I²C bus interface. This IC is the most suitable to obtain the ambient light data for adjusting LCD and Keypad backlight power of Mobile phone. It is possible to detect wide range at High resolution (1 - 65535 lx).
 
-Download: https://github.com/OgreTransporter/fritzing-parts-extra/blob/master/BH1750FVI_GY-30_Digital_Light_Sensor_Module.fzpz
+Download: https://github.com/OgreTransporter/fritzing-parts-extra/raw/master/BH1750FVI_GY-30_Digital_Light_Sensor_Module.fzpz
 
 ## NodeMCU v3 LoLin 
 
@@ -33,7 +33,7 @@ NodeMCU (http://www.nodemcu.com/) is an open source IoT platform. It includes fi
 
 ![Pins](https://github.com/OgreTransporter/fritzing-parts-extra/blob/master/NodeMCU_v3_LoLin/NodeMCU_v3_LoLin_pins.jpg)
 
-Download: https://github.com/OgreTransporter/fritzing-parts-extra/blob/master/NodeMCU_v3_LoLin.fzpz
+Download: https://github.com/OgreTransporter/fritzing-parts-extra/raw/master/NodeMCU_v3_LoLin.fzpz
 
 # Other custom made parts
 

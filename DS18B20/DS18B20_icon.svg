@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg"  height="100.9998" version="1.2" x="0px" y="0px" xml:space="preserve" id="Layer_2" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="46.125" viewBox="0 0 36.9 80.800001" gorn="0">
+    <metadata  id="metadata144">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs142"/>
+    <desc  id="desc3">
+        <referenceFile  id="referenceFile5">DS18B20 module-01.svg</referenceFile>
+    </desc>
+    <g  transform="translate(0,1.138152e-5)">
+        <g >
+            <g  id="g7" gorn="0.3.0.0">
+                <g  id="g9" gorn="0.3.0.0.0">
+                    <g  id="breadboard" gorn="0.3.0.0.0.0">
+                        <g  transform="matrix(0.80000158,0,0,0.80000158,-3.646426e-5,-1.138152e-5)">
+                            <g >
+                                <g  id="g12" gorn="0.3.0.0.0.0.0.0.0">
+                                    <g  id="g14" gorn="0.3.0.0.0.0.0.0.0.0">
+                                        <path  d="M 0 0 L 0 101 L 46.125 101 L 46.125 0 L 0 0 z M 9.96875 13.25 C 11.436436 13.25 12.625 14.438564 12.625 15.90625 C 12.625 17.373936 11.436436 18.5625 9.96875 18.5625 C 8.5010641 18.5625 7.3125 17.373936 7.3125 15.90625 C 7.3125 14.438564 8.5010641 13.25 9.96875 13.25 z M 37.625 13.25 C 39.092686 13.25 40.28125 14.438564 40.28125 15.90625 C 40.28125 17.373936 39.092686 18.5625 37.625 18.5625 C 36.157314 18.5625 34.96875 17.373936 34.96875 15.90625 C 34.96875 14.438564 36.157314 13.25 37.625 13.25 z M 9.5 57.5 C 10.374998 57.5 11 58.125002 11 59 C 11 59.874998 10.249999 60.5 9.5 60.5 C 8.6250017 60.5 8 59.874998 8 59 C 8 58.125002 8.6250017 57.5 9.5 57.5 z M 18.5 57.5 C 19.374998 57.5 20 58.125002 20 59 C 20 59.874998 19.374998 60.5 18.5 60.5 C 17.625002 60.5 17 59.874998 17 59 C 17 58.125002 17.625002 57.5 18.5 57.5 z M 27.5 57.5 C 28.374998 57.5 29 58.125002 29 59 C 29 59.874998 28.374998 60.5 27.5 60.5 C 26.625002 60.5 26 59.874998 26 59 C 26 58.125002 26.625002 57.5 27.5 57.5 z M 36.625 57.5 C 37.499998 57.5 38.125 58.125002 38.125 59 C 38.125 59.874998 37.374999 60.5 36.625 60.5 C 35.750002 60.5 35.125 59.874998 35.125 59 C 35.125 58.125002 35.750002 57.5 36.625 57.5 z M 23.875 70.5 C 26.749994 70.5 29.25 72.875006 29.25 75.875 C 29.125 78.874994 26.749994 81.25 23.875 81.25 C 21.000006 81.25 18.5 78.874994 18.5 75.875 C 18.5 73.000006 20.875006 70.5 23.875 70.5 z M 14.875 93.5 C 15.749998 93.5 16.375 94.125002 16.375 95 C 16.375 95.749999 15.624999 96.5 14.875 96.5 C 14.000002 96.5 13.375 95.874998 13.375 95 C 13.375 94.125002 14.000002 93.5 14.875 93.5 z M 23.875 93.5 C 24.749998 93.5 25.375 94.125002 25.375 95 C 25.375 95.749999 24.624999 96.5 23.875 96.5 C 23.000002 96.5 22.375 95.874998 22.375 95 C 22.375 94.125002 23.000002 93.5 23.875 93.5 z M 32.875 93.5 C 33.749998 93.5 34.375 94.125002 34.375 95 C 34.375 95.749999 33.624999 96.5 32.875 96.5 C 32.000002 96.5 31.375 95.874998 31.375 95 C 31.375 94.125002 32.000002 93.5 32.875 93.5 z " style="fill:#323232;fill-opacity:1" id="path8" gorn="0.3.0.0.0.0.0.0.0.0.0"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  id="g10" gorn="0.3.0.0.0.0.1">
+                            <rect  height="6.8000002" x="8.1999998" fill="none" y="36.799999" stroke-width="0.49889863" stroke-miterlimit="10" style="stroke-miterlimit:10;stroke-dasharray:none" id="rect14" width="20.5" stroke="#ffffff" gorn="0.3.0.0.0.0.1.0"/>
+                            <rect  height="15.7" x="10.6" fill="#8c8c8c" y="10.8" stroke-width="0.50000000000000000" stroke-miterlimit="10" style="stroke-miterlimit:10;" id="rect16" fill-opacity="1" width="15.7" stroke="#ffffff" gorn="0.3.0.0.0.0.1.1"/>
+                            <path  d="m 14.683457,36.799903 0,6.720013" fill="none" stroke-width="0.49889863" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" id="path3069" stroke="#ffffff" gorn="0.3.0.0.0.0.1.2" stroke-opacity="1"/>
+                            <g  transform="matrix(0.80000158,0,0,0.80000158,-3.646426e-5,-1.138152e-5)">
+                                <g >
+                                    <g  id="g21" gorn="0.3.0.0.0.0.1.3.0.0">
+                                        <g  id="g23" gorn="0.3.0.0.0.0.1.3.0.0.0">
+                                            <path  d="m 14.3,45.999802 2.6,-13" fill="none" stroke-width="0.62362205000000004" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" id="path3836" stroke="#ffffff" gorn="0.3.0.0.0.0.1.3.0.0.0.0" stroke-opacity="1"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g  transform="matrix(0.80000158,0,0,0.80000158,-3.646426e-5,-1.138152e-5)">
+                                <g >
+                                    <g  id="g26" gorn="0.3.0.0.0.0.1.4.0.0">
+                                        <g  id="g28" gorn="0.3.0.0.0.0.1.4.0.0.0">
+                                            <path  d="m 31.6,46.099802 -2.4,-13" fill="none" stroke-width="0.62362205000000004" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" id="path3840" stroke="#ffffff" gorn="0.3.0.0.0.0.1.4.0.0.0.0" stroke-opacity="1"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g  transform="matrix(0.85631206,0,0,0.85631206,0.93841772,-0.62939148)">
+                                <g >
+                                    <g  id="g31" gorn="0.3.0.0.0.0.1.5.0.0">
+                                        <g  id="g33" gorn="0.3.0.0.0.0.1.5.0.0.0">
+                                            <path  d="M 40,21.149801 C 40,31.946968 31.247167,40.6998 20.450001,40.6998 9.6528343,40.6998 0.90000153,31.946968 0.90000153,21.149801 0.90000153,10.352635 9.6528343,1.599802 20.450001,1.599802 31.247167,1.599802 40,10.352635 40,21.149801 z" fill="none" stroke-width="0.62362206" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" id="path3842" stroke="#ffffff" gorn="0.3.0.0.0.0.1.5.0.0.0.0" stroke-opacity="1"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="matrix(0.80001934,0,0,0.80001934,3.8534899,12.174523)">
+                            <g >
+                                <g  id="g36" gorn="0.3.0.0.0.0.2.0.0">
+                                    <g  id="g38" gorn="0.3.0.0.0.0.2.0.0.0">
+                                        <circle  d="m 25.3,60.799999 c 0,3.424166 -2.775834,6.2 -6.2,6.2 -3.424165,0 -6.199999,-2.775834 -6.199999,-6.2 0,-3.424165 2.775834,-6.2 6.199999,-6.2 3.424166,0 6.2,2.775835 6.2,6.2 z" fill="none" stroke-width="3.54452825" stroke-miterlimit="10" style="stroke-miterlimit:10;stroke-dasharray:none" id="circle20" stroke="#8c8c8c" cx="19.1" cy="60.799999" r="6.1999998" gorn="0.3.0.0.0.0.2.0.0.0.0" stroke-opacity="1"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  id="g213067" gorn="0.3.0.0.0.0.3">
+                            <g  id="g42" gorn="0.3.0.0.0.0.3.0">
+                                <path  d="m 25.7,40.3 -0.1,-3 -4,-7.3 -1,-2.9" fill="none" stroke-width="1.25" style="stroke-linecap:round;stroke-linejoin:round" id="path212957_2_" stroke="#8c8c8c" gorn="0.3.0.0.0.0.3.0.0"/>
+                                <path  d="m 16.1,27.1 -1,2.9 -4.1,7.3 -0.1,3" fill="none" stroke-width="1.25" style="stroke-linecap:round;stroke-linejoin:round" id="path212957_1_" stroke="#8c8c8c" gorn="0.3.0.0.0.0.3.0.1"/>
+                                <line  fill="none" stroke-width="1.25" style="stroke-linecap:round" id="line27" y1="27.1" stroke="#8c8c8c" y2="40.200001" x1="18.299999" gorn="0.3.0.0.0.0.3.0.2" x2="18.299999"/>
+                                <rect  height="7.9000001" x="13.1" y="18" style="fill:#1b1b1b" id="rect9553" width="10.5" gorn="0.3.0.0.0.0.3.0.3"/>
+                                <path  d="m 22.8,18 v 1.9 6.5 1.5 c 0.5,-0.6 0.8,-1.2 0.8,-1.9 l 0,0 v -8 h -0.8 z" style="fill:#141414" id="path9555" gorn="0.3.0.0.0.0.3.0.4"/>
+                                <path  d="m 13.9,18 h -0.8 v 7.9 l 0,0 c 0,0.7 0.3,1.4 0.8,1.9 V 26.3 19.8 18 z" style="fill:#242424" id="path9557" gorn="0.3.0.0.0.0.3.0.5"/>
+                                <path  d="m 13.1,18 0,0 c 0,0.7 0.3,1.4 0.8,1.9 h 8.9 c 0.5,-0.6 0.8,-1.2 0.8,-1.9 l 0,0 H 13.1 z" style="fill:#1f2020" id="path9559" gorn="0.3.0.0.0.0.3.0.6"/>
+                                <path  d="m 18.3,14.3 c -2.9,0 -5.2,1.6 -5.2,3.7 h 10.5 c 0,-2 -2.4,-3.7 -5.3,-3.7 z" style="fill:#141414" id="path9561" gorn="0.3.0.0.0.0.3.0.7"/>
+                                <rect  height="7.9000001" x="13.9" y="19.9" style="fill:#010202" id="rect9563" width="8.8999996" gorn="0.3.0.0.0.0.3.0.8"/>
+                                <g  id="label0" gorn="0.3.0.0.0.0.3.0.9">
+                                    <g  transform="translate(14.8981,23.2856)">
+                                        <g >
+                                            <g  id="g54" gorn="0.3.0.0.0.0.3.0.9.0.0.0">
+                                                <g  id="g56" gorn="0.3.0.0.0.0.3.0.9.0.0.0.0">
+                                                    <g  id="g58" gorn="0.3.0.0.0.0.3.0.9.0.0.0.0.0">
+                                                        <g  id="g60" gorn="0.3.0.0.0.0.3.0.9.0.0.0.0.0.0">
+                                                            <g  id="g40" gorn="0.3.0.0.0.0.3.0.9.0.0.0.0.0.0.0">
+                                                                <g  id="g63" gorn="0.3.0.0.0.0.3.0.9.0.0.0.0.0.0.0.0">
+                                                                    <g  id="g44" gorn="0.3.0.0.0.0.3.0.9.0.0.0.0.0.0.0.0.0">
+                                                                        <g  id="g46" gorn="0.3.0.0.0.0.3.0.9.0.0.0.0.0.0.0.0.0.0">
+                                                                            <g  id="g48" gorn="0.3.0.0.0.0.3.0.9.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                <g  id="g50" gorn="0.3.0.0.0.0.3.0.9.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                    <g  id="g52" gorn="0.3.0.0.0.0.3.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                        <g  id="g70" gorn="0.3.0.0.0.0.3.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                            <g  id="g72" gorn="0.3.0.0.0.0.3.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                                <g  id="g74" gorn="0.3.0.0.0.0.3.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                                    <g  id="g76" gorn="0.3.0.0.0.0.3.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                                        <text  font-size="1.88976" style="font-size:1.88976002px;fill:#e6e6e6;font-family:OCRA" id="tspan150901" gorn="0.3.0.0.0.0.3.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">DS18</text>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g  id="label0_1_" gorn="0.3.0.0.0.0.3.0.10">
+                                    <g  transform="translate(15.7584,25.6845)">
+                                        <g >
+                                            <g  id="g80" gorn="0.3.0.0.0.0.3.0.10.0.0.0">
+                                                <g  id="g82" gorn="0.3.0.0.0.0.3.0.10.0.0.0.0">
+                                                    <g  id="g64" gorn="0.3.0.0.0.0.3.0.10.0.0.0.0.0">
+                                                        <g  id="g66" gorn="0.3.0.0.0.0.3.0.10.0.0.0.0.0.0">
+                                                            <g  id="g68" gorn="0.3.0.0.0.0.3.0.10.0.0.0.0.0.0.0">
+                                                                <g  id="g87" gorn="0.3.0.0.0.0.3.0.10.0.0.0.0.0.0.0.0">
+                                                                    <g  id="g89" gorn="0.3.0.0.0.0.3.0.10.0.0.0.0.0.0.0.0.0">
+                                                                        <g  id="g91" gorn="0.3.0.0.0.0.3.0.10.0.0.0.0.0.0.0.0.0.0">
+                                                                            <g  id="g93" gorn="0.3.0.0.0.0.3.0.10.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                <g  id="g78" gorn="0.3.0.0.0.0.3.0.10.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                    <g  id="g96" gorn="0.3.0.0.0.0.3.0.10.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                        <g  id="g98" gorn="0.3.0.0.0.0.3.0.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                            <g  id="g84" gorn="0.3.0.0.0.0.3.0.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                                <g  id="g86" gorn="0.3.0.0.0.0.3.0.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                                    <g  id="g88" gorn="0.3.0.0.0.0.3.0.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                                        <text  font-size="1.88976" style="font-size:1.88976002px;fill:#e6e6e6;font-family:OCRA" id="tspan150907" gorn="0.3.0.0.0.0.3.0.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">B20</text>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  id="g103" gorn="0.3.0.0.0.0.4">
+                            <g  id="g105" gorn="0.3.0.0.0.0.4.0">
+                                <rect  height="9.6000004" x="2.7" y="56.700001" style="fill:#dadada" id="rect107" width="4" gorn="0.3.0.0.0.0.4.0.0"/>
+                                <rect  height="4" x="2.7" y="59.5" id="rect109" width="4" gorn="0.3.0.0.0.0.4.0.1"/>
+                            </g>
+                            <g  id="g111" gorn="0.3.0.0.0.0.4.1">
+                                <polyline  fill="none" stroke-width="0.5" stroke-miterlimit="10" style="stroke-miterlimit:10" id="polyline113" stroke="#ffffff" points="8,59.9 8,55.2 1.4,55.2 1.4,59.9 " gorn="0.3.0.0.0.0.4.1.0"/>
+                                <polyline  fill="none" stroke-width="0.5" stroke-miterlimit="10" style="stroke-miterlimit:10" id="polyline115" stroke="#ffffff" points="1.4,62.8 1.4,67.5 8,67.5 8,62.8 " gorn="0.3.0.0.0.0.4.1.1"/>
+                            </g>
+                        </g>
+                        <circle  d="m 13.1,76 c 0,0.662742 -0.537259,1.2 -1.2,1.2 -0.662742,0 -1.2,-0.537258 -1.2,-1.2 0,-0.662742 0.537258,-1.2 1.2,-1.2 0.662741,0 1.2,0.537258 1.2,1.2 z" fill="none" stroke-width="0.5" stroke-miterlimit="10" style="stroke-miterlimit:10" id="connector3pin" stroke="#8c8c8c" cx="11.9" cy="76" r="1.2" gorn="0.3.0.0.0.0.5"/>
+                        <circle  d="m 20.3,76 c 0,0.662742 -0.537258,1.2 -1.2,1.2 -0.662741,0 -1.2,-0.537258 -1.2,-1.2 0,-0.662742 0.537259,-1.2 1.2,-1.2 0.662742,0 1.2,0.537258 1.2,1.2 z" fill="none" stroke-width="0.49889863" stroke-miterlimit="10" style="stroke-miterlimit:10;stroke-dasharray:none" id="connector2pin" stroke="#8c8c8c" cx="19.1" cy="76" r="1.2" gorn="0.3.0.0.0.0.6"/>
+                        <circle  d="m 27.499999,76 c 0,0.662742 -0.537258,1.2 -1.2,1.2 -0.662741,0 -1.2,-0.537258 -1.2,-1.2 0,-0.662742 0.537259,-1.2 1.2,-1.2 0.662742,0 1.2,0.537258 1.2,1.2 z" fill="none" stroke-width="0.5" stroke-miterlimit="10" style="stroke-miterlimit:10" id="connector1pin" stroke="#8c8c8c" cx="26.299999" cy="76" r="1.2" gorn="0.3.0.0.0.0.7"/>
+                        <circle  d="m 8.8,47.200001 c 0,0.662741 -0.5372584,1.2 -1.2000001,1.2 -0.6627417,0 -1.2,-0.537259 -1.2,-1.2 0,-0.662742 0.5372583,-1.2 1.2,-1.2 0.6627417,0 1.2000001,0.537258 1.2000001,1.2 z" fill="none" stroke-width="0.5" stroke-miterlimit="10" style="stroke-miterlimit:10" id="connector4pin" stroke="#8c8c8c" cx="7.5999999" cy="47.200001" r="1.2" gorn="0.3.0.0.0.0.8"/>
+                        <circle  d="m 16,47.200001 c 0,0.662741 -0.537258,1.2 -1.2,1.2 -0.662742,0 -1.2,-0.537259 -1.2,-1.2 0,-0.662742 0.537258,-1.2 1.2,-1.2 0.662742,0 1.2,0.537258 1.2,1.2 z" fill="none" stroke-width="0.5" stroke-miterlimit="10" style="stroke-miterlimit:10" id="connector5pin" stroke="#8c8c8c" cx="14.8" cy="47.200001" r="1.2" gorn="0.3.0.0.0.0.9"/>
+                        <circle  d="m 23.2,47.200001 c 0,0.662741 -0.537258,1.2 -1.2,1.2 -0.662742,0 -1.2,-0.537259 -1.2,-1.2 0,-0.662742 0.537258,-1.2 1.2,-1.2 0.662742,0 1.2,0.537258 1.2,1.2 z" fill="none" stroke-width="0.5" stroke-miterlimit="10" style="stroke-miterlimit:10" id="connector6pin" stroke="#8c8c8c" cx="22" cy="47.200001" r="1.2" gorn="0.3.0.0.0.0.10"/>
+                        <circle  d="m 30.400001,47.200001 c 0,0.662741 -0.537259,1.2 -1.2,1.2 -0.662742,0 -1.2,-0.537259 -1.2,-1.2 0,-0.662742 0.537258,-1.2 1.2,-1.2 0.662741,0 1.2,0.537258 1.2,1.2 z" fill="none" stroke-width="0.5" stroke-miterlimit="10" style="stroke-miterlimit:10" id="connector7pin" stroke="#8c8c8c" cx="29.200001" cy="47.200001" r="1.2" gorn="0.3.0.0.0.0.11"/>
+                        <g  transform="translate(27.621674,0)">
+                            <g >
+                                <g  id="g118" gorn="0.3.0.0.0.0.12.0.0">
+                                    <g  id="g120" gorn="0.3.0.0.0.0.12.0.0.0">
+                                        <g  id="g3909" gorn="0.3.0.0.0.0.12.0.0.0.0">
+                                            <g  id="g3911" gorn="0.3.0.0.0.0.12.0.0.0.0.0">
+                                                <rect  height="9.6000004" x="2.7" y="56.700001" style="fill:#dadada" id="rect3913" width="4" gorn="0.3.0.0.0.0.12.0.0.0.0.0.0"/>
+                                                <rect  height="4" x="2.7" y="59.5" id="rect3915" width="4" gorn="0.3.0.0.0.0.12.0.0.0.0.0.1"/>
+                                            </g>
+                                            <g  id="g3917" gorn="0.3.0.0.0.0.12.0.0.0.0.1">
+                                                <polyline  fill="none" stroke-width="0.5" stroke-miterlimit="10" style="stroke-miterlimit:10" id="polyline3919" stroke="#ffffff" points="8,59.9 8,55.2 1.4,55.2 1.4,59.9 " gorn="0.3.0.0.0.0.12.0.0.0.0.1.0"/>
+                                                <polyline  fill="none" stroke-width="0.5" stroke-miterlimit="10" style="stroke-miterlimit:10" id="polyline3921" stroke="#ffffff" points="1.4,62.8 1.4,67.5 8,67.5 8,62.8 " gorn="0.3.0.0.0.0.12.0.0.0.0.1.1"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  font-size="6.40001" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;font-family:Droid Sans;-inkscape-font-specification:Sans Bold" id="text3931" fill-opacity="1" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none" gorn="0.3.0.0.0.0.13">
+                            <text  x="29.700022" y="78.300781" style="font-size:6.40001249px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:OCRA;-inkscape-font-specification:OCRA" id="tspan3933" gorn="0.3.0.0.0.0.13.0">+</text>
+                        </g>
+                        <g  font-size="6.40001" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Sans Bold" id="text3935" fill-opacity="1" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none" gorn="0.3.0.0.0.0.14">
+                            <text  x="5.0381231" y="78.300781" style="font-size:6.40001249px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:OCRA;-inkscape-font-specification:OCRA" id="tspan3937" gorn="0.3.0.0.0.0.14.0">-</text>
+                        </g>
+                        <g  font-size="6.40001" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;font-family:Droid Sans;-inkscape-font-specification:Sans Bold" id="text3871" fill-opacity="1" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none" gorn="0.3.0.0.0.0.15">
+                            <text  x="27.060017" y="10.860649" style="font-size:6.40001249px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:OCRA;-inkscape-font-specification:OCRA" id="tspan3873" gorn="0.3.0.0.0.0.15.0">+</text>
+                        </g>
+                        <g  transform="translate(28.755534,-25.512606)">
+                            <g >
+                                <g  id="g139" gorn="0.3.0.0.0.0.16.0.0">
+                                    <g  id="g141" gorn="0.3.0.0.0.0.16.0.0.0">
+                                        <g  id="g3875" gorn="0.3.0.0.0.0.16.0.0.0.0">
+                                            <g  id="g3877" gorn="0.3.0.0.0.0.16.0.0.0.0.0">
+                                                <g  transform="matrix(0.80000158,0,0,0.80000158,-28.75557,25.512595)">
+                                                    <g >
+                                                        <g  id="g145" gorn="0.3.0.0.0.0.16.0.0.0.0.0.0.0.0">
+                                                            <g  id="g147" gorn="0.3.0.0.0.0.16.0.0.0.0.0.0.0.0.0">
+                                                                <path  d="M 39.3125 38.96875 L 39.3125 42.46875 L 44.3125 42.46875 L 44.3125 38.96875 L 39.3125 38.96875 z M 39.3125 47.46875 L 39.3125 50.96875 L 44.3125 50.96875 L 44.3125 47.46875 L 39.3125 47.46875 z " style="fill:#dadada" id="rect3879" gorn="0.3.0.0.0.0.16.0.0.0.0.0.0.0.0.0.0"/>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g  id="g3883" gorn="0.3.0.0.0.0.16.0.0.0.0.1">
+                                                <polyline  fill="none" stroke-width="0.5" stroke-miterlimit="10" style="stroke-miterlimit:10" id="polyline3885" stroke="#ffffff" points="8,59.9 8,55.2 1.4,55.2 1.4,59.9 " gorn="0.3.0.0.0.0.16.0.0.0.0.1.0"/>
+                                                <polyline  fill="none" stroke-width="0.5" stroke-miterlimit="10" style="stroke-miterlimit:10" id="polyline3887" stroke="#ffffff" points="1.4,62.8 1.4,67.5 8,67.5 8,62.8 " gorn="0.3.0.0.0.0.16.0.0.0.0.1.1"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  font-size="6.40001" fill="#ffffff" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;font-family:Droid Sans;-inkscape-font-specification:Sans Bold" id="text3075" fill-opacity="1" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none" gorn="0.3.0.0.0.0.17">
+                            <text  x="12.239986" y="73.439972" style="font-size:6.40001248999999990px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff" id="tspan3077" gorn="0.3.0.0.0.0.17.0">OUT</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

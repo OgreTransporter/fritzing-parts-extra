@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="31.2px" gorn="0" xmlns:xml="http://www.w3.org/XML/1998/namespace" version="1.2"  x="0px" y="0px" viewBox="0 0 31.2 36.1" height="36.1px" id="svg2" xml:space="preserve">
+    <metadata id="metadata151">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs149"/>
+    <desc id="desc4">
+        <referenceFile id="referenceFile6">DS18B20 module-3pin-schematic.svg</referenceFile>
+    </desc>
+    <g gorn="0.3" id="Schematic_3pin">
+        <rect width="29.3" gorn="0.3.0" x="1" y="1.2" stroke="#000000" fill="none" height="26.7" id="rect9" stroke-width="0.75" stroke-miterlimit="10"/>
+        <g transform="matrix(4.489659e-11 -1 1 4.489659e-11 9.4072 26.5575)">
+            <g id="g9">
+                <g id="g11">
+                    <g gorn="0.3.1.0.0" id="g13">
+                        <g gorn="0.3.1.0.0.0" id="g15">
+                            <g gorn="0.3.1.0.0.0.0" id="g17">
+                                <g gorn="0.3.1.0.0.0.0.0" id="g19">
+                                    <g gorn="0.3.1.0.0.0.0.0.0" id="g21">
+                                        <g gorn="0.3.1.0.0.0.0.0.0.0" id="g23">
+                                            <g gorn="0.3.1.0.0.0.0.0.0.0.0" id="g25">
+                                                <g gorn="0.3.1.0.0.0.0.0.0.0.0.0" font-size="3.3727" id="text25" style="font-size:3.37269998px;fill:#555555;font-family:DroidSans">
+                                                    <text x="" y="" id="tspan3099" style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">GND</text>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(4.489659e-11 -1 1 4.489659e-11 23.7722 26.4652)">
+            <g id="g28">
+                <g id="g30">
+                    <g gorn="0.3.2.0.0" id="g43">
+                        <g gorn="0.3.2.0.0.0" id="g45">
+                            <g gorn="0.3.2.0.0.0.0" id="g47">
+                                <g gorn="0.3.2.0.0.0.0.0" id="g49">
+                                    <g gorn="0.3.2.0.0.0.0.0.0" id="g51">
+                                        <g gorn="0.3.2.0.0.0.0.0.0.0" id="g53">
+                                            <g gorn="0.3.2.0.0.0.0.0.0.0.0" id="g55">
+                                                <g gorn="0.3.2.0.0.0.0.0.0.0.0.0" font-size="3.3727" id="text57" style="font-size:3.37269998px;fill:#555555;font-family:DroidSans">
+                                                    <text x="" y="" id="tspan3103" style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">VDD</text>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0 -1 1 0 7.4111 32.1621)">
+            <g id="g40">
+                <g id="g42">
+                    <g gorn="0.3.3.0.0" id="g59">
+                        <g gorn="0.3.3.0.0.0" id="g61">
+                            <g gorn="0.3.3.0.0.0.0" id="g63">
+                                <g gorn="0.3.3.0.0.0.0.0" id="g65">
+                                    <g gorn="0.3.3.0.0.0.0.0.0" id="g67">
+                                        <g gorn="0.3.3.0.0.0.0.0.0.0" id="g69">
+                                            <g gorn="0.3.3.0.0.0.0.0.0.0.0" id="g71">
+                                                <g gorn="0.3.3.0.0.0.0.0.0.0.0.0" fill="#555555" font-size="2.5" id="text73" font-family="DroidSans">
+                                                    <text x="" y="" id="tspan3105" style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1</text>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0 -1 1 0 14.5939 32.1621)">
+            <g id="g52">
+                <g id="g54">
+                    <g gorn="0.3.4.0.0" id="g75">
+                        <g gorn="0.3.4.0.0.0" id="g77">
+                            <g gorn="0.3.4.0.0.0.0" id="g79">
+                                <g gorn="0.3.4.0.0.0.0.0" id="g81">
+                                    <g gorn="0.3.4.0.0.0.0.0.0" id="g83">
+                                        <g gorn="0.3.4.0.0.0.0.0.0.0" id="g85">
+                                            <g gorn="0.3.4.0.0.0.0.0.0.0.0" id="g87">
+                                                <g gorn="0.3.4.0.0.0.0.0.0.0.0.0" fill="#555555" font-size="2.5" id="text89" font-family="DroidSans">
+                                                    <text x="" y="" id="tspan3107" style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2</text>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0 -1 1 0 21.7759 32.1621)">
+            <g id="g64">
+                <g id="g66">
+                    <g gorn="0.3.5.0.0" id="g91">
+                        <g gorn="0.3.5.0.0.0" id="g93">
+                            <g gorn="0.3.5.0.0.0.0" id="g95">
+                                <g gorn="0.3.5.0.0.0.0.0" id="g97">
+                                    <g gorn="0.3.5.0.0.0.0.0.0" id="g99">
+                                        <g gorn="0.3.5.0.0.0.0.0.0.0" id="g101">
+                                            <g gorn="0.3.5.0.0.0.0.0.0.0.0" id="g103">
+                                                <g gorn="0.3.5.0.0.0.0.0.0.0.0.0" fill="#555555" font-size="2.5" id="text105" font-family="DroidSans">
+                                                    <text x="" y="" id="tspan3109" style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">3</text>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g gorn="0.3.6" id="g107">
+            <line x1="8.4" gorn="0.3.6.0" x2="8.4" stroke-linecap="round" stroke="#555555" fill="none" stroke-linejoin="round" id="connector3pin" stroke-width="0.5" y1="35.1" y2="27.9"/>
+            <rect width="0.001" gorn="0.3.6.1" x="8.3995" y="35.3423" stroke="none" fill="none" height="0.0154" id="rect78" stroke-width="0"/>
+            <line x1="15.8" gorn="0.3.6.2" x2="15.8" stroke-linecap="round" stroke="#555555" fill="none" stroke-linejoin="round" id="connector2pin" stroke-width="0.5" y1="35.1" y2="27.9"/>
+            <rect width="0.001" gorn="0.3.6.3" x="15.7995" y="35.3423" stroke="none" fill="none" id="connector2terminal" height="0.0154" stroke-width="0"/>
+            <line x1="22.8" gorn="0.3.6.4" x2="22.8" stroke-linecap="round" stroke="#555555" fill="none" stroke-linejoin="round" id="connector1pin" stroke-width="0.5" y1="35.1" y2="27.9"/>
+            <rect width="0.001" gorn="0.3.6.5" x="22.7995" y="35.3423" stroke="none" fill="none" height="0.0154" id="rect83" stroke-width="0"/>
+        </g>
+        <g transform="matrix(1 0 0 1 6.1524 10.623)">
+            <g id="g86">
+                <g id="g88">
+                    <g gorn="0.3.7.0.0" id="g115">
+                        <g gorn="0.3.7.0.0.0" id="g117">
+                            <g gorn="0.3.7.0.0.0.0" id="g119">
+                                <g gorn="0.3.7.0.0.0.0.0" id="g121">
+                                    <g gorn="0.3.7.0.0.0.0.0.0" id="g123">
+                                        <g gorn="0.3.7.0.0.0.0.0.0.0" id="g125">
+                                            <g gorn="0.3.7.0.0.0.0.0.0.0.0" id="g127">
+                                                <text gorn="0.3.7.0.0.0.0.0.0.0.0.0" fill="#000000" font-size="4.771" id="text129" font-family="DroidSans">DS18B20</text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1 0 0 1 7.6109 16.3481)">
+            <g id="g98">
+                <g id="g100">
+                    <g gorn="0.3.8.0.0" id="g131">
+                        <g gorn="0.3.8.0.0.0" id="g133">
+                            <g gorn="0.3.8.0.0.0.0" id="g135">
+                                <g gorn="0.3.8.0.0.0.0.0" id="g137">
+                                    <g gorn="0.3.8.0.0.0.0.0.0" id="g139">
+                                        <g gorn="0.3.8.0.0.0.0.0.0.0" id="g141">
+                                            <g gorn="0.3.8.0.0.0.0.0.0.0.0" id="g143">
+                                                <text gorn="0.3.8.0.0.0.0.0.0.0.0.0" fill="#000000" font-size="4.771" id="text145" font-family="DroidSans">Module</text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0,-1,1,0,16.807247,26.5575)">
+            <g id="g110">
+                <g id="g112">
+                    <g gorn="0.3.9.0.0" id="g3128">
+                        <g gorn="0.3.9.0.0.0" id="g3130">
+                            <g gorn="0.3.9.0.0.0.0" id="g3132">
+                                <g gorn="0.3.9.0.0.0.0.0" id="g3134">
+                                    <g gorn="0.3.9.0.0.0.0.0.0" id="g3136">
+                                        <g gorn="0.3.9.0.0.0.0.0.0.0" id="g3138">
+                                            <g gorn="0.3.9.0.0.0.0.0.0.0.0" id="g3140">
+                                                <g gorn="0.3.9.0.0.0.0.0.0.0.0.0" id="text3142" font-size="3.3727" style="font-size:3.37269998px;fill:#555555;font-family:DroidSans">
+                                                    <text x="" y="" id="tspan3101" style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">OUT</text>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

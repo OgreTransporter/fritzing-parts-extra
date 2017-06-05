@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="46.062992" gorn="0" xmlns:xml="http://www.w3.org/XML/1998/namespace" version="1.2"  viewBox="0 0 46.062994 99.212588" height="99.212593" id="svg2" xml:space="preserve">
+    <desc id="desc4">
+        <referenceFile id="referenceFile6">DS18B20 module-3pin-pcb.svg</referenceFile>
+    </desc>
+    <metadata id="metadata63">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs61"/>
+    <g transform="matrix(1.2154171,0,0,1.2128522,-0.36475972,-0.72707801)">
+        <g>
+            <g gorn="0.3.0.0" id="PCB_3pin">
+                <g gorn="0.3.0.0.0" id="silkscreen">
+                    <rect width="36.900002" gorn="0.3.0.0.0.0" x="0.80000001" y="1.1" stroke="#000000" fill="none" height="80.800003" id="path" stroke-width="1" style="stroke-miterlimit:10"/>
+                    <g gorn="0.3.0.0.0.1" id="g11">
+                        <line x1="21.1" x2="17.5" gorn="0.3.0.0.0.1.0" stroke="#000000" fill="none" id="line13" stroke-width="0.57599998" y1="79.900002" style="stroke-linecap:round" y2="79.900002"/>
+                        <line x1="17.5" x2="15.7" gorn="0.3.0.0.0.1.1" stroke="#000000" fill="none" id="line15" stroke-width="0.57599998" y1="79.900002" style="stroke-linecap:round" y2="78.099998"/>
+                        <line x1="15.7" x2="17.5" gorn="0.3.0.0.0.1.2" stroke="#000000" fill="none" id="line17" stroke-width="0.57599998" y1="74.5" style="stroke-linecap:round" y2="72.699997"/>
+                        <line x1="15.7" x2="13.9" gorn="0.3.0.0.0.1.3" stroke="#000000" fill="none" id="line19" stroke-width="0.57599998" y1="78.099998" style="stroke-linecap:round" y2="79.900002"/>
+                        <line x1="13.9" x2="10.3" gorn="0.3.0.0.0.1.4" stroke="#000000" fill="none" id="line21" stroke-width="0.57599998" y1="79.900002" style="stroke-linecap:round" y2="79.900002"/>
+                        <line x1="10.3" x2="8.5" gorn="0.3.0.0.0.1.5" stroke="#000000" fill="none" id="line23" stroke-width="0.57599998" y1="79.900002" style="stroke-linecap:round" y2="78.099998"/>
+                        <line x1="8.5" x2="10.3" gorn="0.3.0.0.0.1.6" stroke="#000000" fill="none" id="line25" stroke-width="0.57599998" y1="74.5" style="stroke-linecap:round" y2="72.699997"/>
+                        <line x1="10.3" x2="13.9" gorn="0.3.0.0.0.1.7" stroke="#000000" fill="none" id="line27" stroke-width="0.57599998" y1="72.699997" style="stroke-linecap:round" y2="72.699997"/>
+                        <line x1="13.9" x2="15.7" gorn="0.3.0.0.0.1.8" stroke="#000000" fill="none" id="line29" stroke-width="0.57599998" y1="72.699997" style="stroke-linecap:round" y2="74.5"/>
+                        <line x1="30.1" x2="28.299999" gorn="0.3.0.0.0.1.9" stroke="#000000" fill="none" id="line31" stroke-width="0.57599998" y1="78.099998" style="stroke-linecap:round" y2="79.900002"/>
+                        <line x1="28.299999" x2="24.700001" gorn="0.3.0.0.0.1.10" stroke="#000000" fill="none" id="line33" stroke-width="0.57599998" y1="79.900002" style="stroke-linecap:round" y2="79.900002"/>
+                        <line x1="24.700001" x2="22.9" gorn="0.3.0.0.0.1.11" stroke="#000000" fill="none" id="line35" stroke-width="0.57599998" y1="79.900002" style="stroke-linecap:round" y2="78.099998"/>
+                        <line x1="22.9" x2="24.700001" gorn="0.3.0.0.0.1.12" stroke="#000000" fill="none" id="line37" stroke-width="0.57599998" y1="74.5" style="stroke-linecap:round" y2="72.699997"/>
+                        <line x1="24.700001" x2="28.299999" gorn="0.3.0.0.0.1.13" stroke="#000000" fill="none" id="line39" stroke-width="0.57599998" y1="72.699997" style="stroke-linecap:round" y2="72.699997"/>
+                        <line x1="28.299999" x2="30.1" gorn="0.3.0.0.0.1.14" stroke="#000000" fill="none" id="line41" stroke-width="0.57599998" y1="72.699997" style="stroke-linecap:round" y2="74.5"/>
+                        <line x1="21.1" x2="22.9" gorn="0.3.0.0.0.1.15" stroke="#000000" fill="none" id="line43" stroke-width="0.57599998" y1="79.900002" style="stroke-linecap:round" y2="78.099998"/>
+                        <line x1="22.9" x2="21.1" gorn="0.3.0.0.0.1.16" stroke="#000000" fill="none" id="line45" stroke-width="0.57599998" y1="74.5" style="stroke-linecap:round" y2="72.699997"/>
+                        <line x1="17.5" x2="21.1" gorn="0.3.0.0.0.1.17" stroke="#000000" fill="none" id="line47" stroke-width="0.57599998" y1="72.699997" style="stroke-linecap:round" y2="72.699997"/>
+                        <line x1="30.1" x2="30.1" gorn="0.3.0.0.0.1.18" stroke="#000000" fill="none" id="line49" stroke-width="0.57599998" y1="78.099998" style="stroke-linecap:round" y2="74.5"/>
+                        <line x1="8.5" x2="8.5" gorn="0.3.0.0.0.1.19" stroke="#000000" fill="none" id="line51" stroke-width="0.57599998" y1="78.099998" style="stroke-linecap:round" y2="74.5"/>
+                    </g>
+                </g>
+                <g gorn="0.3.0.0.1" id="copper0">
+                    <g gorn="0.3.0.0.1.0" id="copper1">
+                        <circle r="2.0999999" gorn="0.3.0.0.1.0.0" stroke="#f7bd13" fill="none" id="connector3pad" stroke-width="1.41729999" cx="12.2" cy="76.300003"/>
+                        <circle r="2.0999999" gorn="0.3.0.0.1.0.1" stroke="#f7bd13" fill="none" id="connector2pad" stroke-width="1.41729999" cx="19.200001" cy="76.300003"/>
+                        <rect width="0.0112346" gorn="0.3.0.0.1.0.2" x="19.0522" y="76.223297" stroke="none" fill="none" height="0.0112346" id="connector2terminal"/>
+                        <circle r="2.0999999" gorn="0.3.0.0.1.0.3" stroke="#f7bd13" fill="none" id="connector1pad" stroke-width="1.41729999" cx="26.4" cy="76.300003"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

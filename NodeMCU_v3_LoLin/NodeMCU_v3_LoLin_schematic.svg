@@ -1,329 +1,868 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve"  x="0px" y="0px" height="1.80556in" id="Layer_1" enable-background="new 0 0 65 130" xmlns:xml="http://www.w3.org/XML/1998/namespace" viewBox="0 0 65 130" gorn="0" width="0.902778in">
-    <desc  id="desc3">
-        <referenceFile  id="referenceFile5">NodeMCUSchema.svg</referenceFile>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" width="0.90277803in" version="1.1" xml:space="preserve" height="1.80556in" gorn="0"  xmlns:xml="http://www.w3.org/XML/1998/namespace" viewBox="0 0 65 130">
+    <desc >
+        <referenceFile >NodeMCU_v3_LoLin_schematic.svg</referenceFile>
     </desc>
-    <metadata  id="metadata133">
+    <metadata id="metadata133" >
         <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
             <cc:Work xmlns:cc="http://creativecommons.org/ns#" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
                 <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
             </cc:Work>
         </rdf:RDF>
     </metadata>
-    <defs  id="defs131"/>
-    <g  transform="translate(51.941181,16.3164)">
-        <g >
-            <g  id="g9" gorn="0.3.0.0">
-                <g  id="g11" gorn="0.3.0.0.0">
-                    <text font-size="3.5"  id="text3" gorn="0.3.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">D0</text>
+    <g id="schematic" gorn="0.2" >
+        <g id="pins" gorn="0.2.0" >
+            <line id="connector42pin" fill="none" stroke-width="0.5" y1="15.386" y2="15.386" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="0.001" x2="7.2719998" stroke-linecap="round" gorn="0.2.0.0"  stroke-linejoin="round"/>
+            <rect id="connector42terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="-0.256771" y="15.3855" height="0.001" />
+            <line id="connector41pin" fill="none" stroke-width="0.5" y1="22.601" y2="22.617001" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="0.001" x2="7.2719998" stroke-linecap="round" gorn="0.2.0.2"  stroke-linejoin="round"/>
+            <rect id="connector41terminal" fill="none" stroke-width="0" stroke="none" width="0.0155442" x="-0.257322" y="22.6085" height="0.0010342" />
+            <line id="connector40pin" fill="none" stroke-width="0.5" y1="29.801001" y2="29.801001" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="0.001" x2="7.2719998" stroke-linecap="round" gorn="0.2.0.4"  stroke-linejoin="round"/>
+            <rect id="connector40terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="-0.256771" y="29.8005" height="0.001" />
+            <line id="connector39pin" fill="none" stroke-width="0.5" y1="36.970001" y2="36.970001" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="0.001" x2="7.2719998" stroke-linecap="round" gorn="0.2.0.6"  stroke-linejoin="round"/>
+            <rect id="connector39terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="-0.256771" y="36.9695" height="0.001" />
+            <line id="connector38pin" fill="none" stroke-width="0.5" y1="44.186001" y2="44.186001" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="0.001" x2="7.2719998" stroke-linecap="round" gorn="0.2.0.8"  stroke-linejoin="round"/>
+            <rect id="connector38terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="-0.256771" y="44.1855" height="0.001" />
+            <line id="connector37pin" fill="none" stroke-width="0.5" y1="51.386002" y2="51.386002" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="0.001" x2="7.2719998" stroke-linecap="round" gorn="0.2.0.10"  stroke-linejoin="round"/>
+            <rect id="connector37terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="-0.256771" y="51.3855" height="0.001" />
+            <line id="connector36pin" fill="none" stroke-width="0.5" y1="58.585999" y2="58.585999" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="0.001" x2="7.2719998" stroke-linecap="round" gorn="0.2.0.12"  stroke-linejoin="round"/>
+            <rect id="connector36terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="-0.256771" y="58.5855" height="0.001" />
+            <line id="connector35pin" fill="none" stroke-width="0.5" y1="65.803001" y2="65.803001" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="0.001" x2="7.2719998" stroke-linecap="round" gorn="0.2.0.14"  stroke-linejoin="round"/>
+            <rect id="connector35terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="-0.256771" y="65.8025" height="0.001" />
+            <line id="connector34pin" fill="none" stroke-width="0.5" y1="73.001999" y2="73.001999" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="0.001" x2="7.2719998" stroke-linecap="round" gorn="0.2.0.16"  stroke-linejoin="round"/>
+            <rect id="connector34terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="-0.256771" y="73.0015" height="0.001" />
+            <line id="connector33pin" fill="none" stroke-width="0.5" y1="80.171997" y2="80.171997" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="0.001" x2="7.2719998" stroke-linecap="round" gorn="0.2.0.18"  stroke-linejoin="round"/>
+            <rect id="connector33terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="-0.256771" y="80.1715" height="0.001" />
+            <line id="connector19pin" fill="none" stroke-width="0.5" y1="87.388" y2="87.388" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="0.001" x2="7.2719998" stroke-linecap="round" gorn="0.2.0.20"  stroke-linejoin="round"/>
+            <rect id="connector19terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="-0.256771" y="87.3875" height="0.001" />
+            <line id="connector18pin" fill="none" stroke-width="0.5" y1="94.587997" y2="94.587997" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="0.001" x2="7.2719998" stroke-linecap="round" gorn="0.2.0.22"  stroke-linejoin="round"/>
+            <rect id="connector18terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="-0.256771" y="94.5875" height="0.001" />
+            <line id="connector17pin" fill="none" stroke-width="0.5" y1="101.856" y2="101.856" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="0.001" x2="7.2719998" stroke-linecap="round" gorn="0.2.0.24"  stroke-linejoin="round"/>
+            <rect id="connector17terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="-0.256771" y="101.855" height="0.001" />
+            <line id="connector16pin" fill="none" stroke-width="0.5" y1="109.072" y2="109.072" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="0.001" x2="7.2719998" stroke-linecap="round" gorn="0.2.0.26"  stroke-linejoin="round"/>
+            <rect id="connector16terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="-0.256771" y="109.072" height="0.001" />
+            <line id="connector15pin" fill="none" stroke-width="0.5" y1="116.272" y2="116.272" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="0.001" x2="7.2719998" stroke-linecap="round" gorn="0.2.0.28"  stroke-linejoin="round"/>
+            <rect id="connector15terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="-0.256771" y="116.272" height="0.001" />
+            <line id="connector0pin" fill="none" stroke-width="0.5" y1="15.386" y2="15.386" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="57.602001" x2="64.872002" stroke-linecap="round" gorn="0.2.0.30"  stroke-linejoin="round"/>
+            <rect id="connector0terminal" fill="none" stroke-width="0" stroke="none" width="0.01554" x="65.1142" y="15.3855" height="0.001" />
+            <line id="connector1pin" fill="none" stroke-width="0.5" y1="22.601" y2="22.601" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="57.602001" x2="64.873001" stroke-linecap="round" gorn="0.2.0.32"  stroke-linejoin="round"/>
+            <rect id="connector1terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="65.1152" y="22.6005" height="0.001" />
+            <line id="connector2pin" fill="none" stroke-width="0.5" y1="29.801001" y2="29.801001" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="57.602001" x2="64.873001" stroke-linecap="round" gorn="0.2.0.34"  stroke-linejoin="round"/>
+            <rect id="connector2terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="65.1152" y="29.8005" height="0.001" />
+            <line id="connector3pin" fill="none" stroke-width="0.5" y1="36.970001" y2="36.970001" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="57.602001" x2="64.872002" stroke-linecap="round" gorn="0.2.0.36"  stroke-linejoin="round"/>
+            <rect id="connector3terminal" fill="none" stroke-width="0" stroke="none" width="0.01554" x="65.1142" y="36.9695" height="0.001" />
+            <line id="connector4pin" fill="none" stroke-width="0.5" y1="44.186001" y2="44.186001" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="57.602001" x2="64.873001" stroke-linecap="round" gorn="0.2.0.38"  stroke-linejoin="round"/>
+            <rect id="connector4terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="65.1152" y="44.1855" height="0.001" />
+            <line id="connector5pin" fill="none" stroke-width="0.5" y1="51.386002" y2="51.386002" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="57.602001" x2="64.873001" stroke-linecap="round" gorn="0.2.0.40"  stroke-linejoin="round"/>
+            <rect id="connector5terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="65.1152" y="51.3855" height="0.001" />
+            <line id="connector6pin" fill="none" stroke-width="0.5" y1="58.585999" y2="58.585999" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="57.602001" x2="64.872002" stroke-linecap="round" gorn="0.2.0.42"  stroke-linejoin="round"/>
+            <rect id="connector6terminal" fill="none" stroke-width="0" stroke="none" width="0.01554" x="65.1142" y="58.5855" height="0.001" />
+            <line id="connector7pin" fill="none" stroke-width="0.5" y1="65.803001" y2="65.803001" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="57.602001" x2="64.873001" stroke-linecap="round" gorn="0.2.0.44"  stroke-linejoin="round"/>
+            <rect id="connector7terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="65.1152" y="65.8025" height="0.001" />
+            <line id="connector8pin" fill="none" stroke-width="0.5" y1="73.001999" y2="73.001999" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="57.602001" x2="64.873001" stroke-linecap="round" gorn="0.2.0.46"  stroke-linejoin="round"/>
+            <rect id="connector8terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="65.1152" y="73.0015" height="0.001" />
+            <line id="connector9pin" fill="none" stroke-width="0.5" y1="80.171997" y2="80.171997" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="57.602001" x2="64.872002" stroke-linecap="round" gorn="0.2.0.48"  stroke-linejoin="round"/>
+            <rect id="connector9terminal" fill="none" stroke-width="0" stroke="none" width="0.01554" x="65.1142" y="80.1715" height="0.001" />
+            <line id="connector10pin" fill="none" stroke-width="0.5" y1="87.388" y2="87.388" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="57.602001" x2="64.873001" stroke-linecap="round" gorn="0.2.0.50"  stroke-linejoin="round"/>
+            <rect id="connector10terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="65.1152" y="87.3875" height="0.001" />
+            <line id="connector11pin" fill="none" stroke-width="0.5" y1="94.587997" y2="94.587997" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="57.602001" x2="64.873001" stroke-linecap="round" gorn="0.2.0.52"  stroke-linejoin="round"/>
+            <rect id="connector11terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="65.1152" y="94.5875" height="0.001" />
+            <line id="connector12pin" fill="none" stroke-width="0.5" y1="101.856" y2="101.856" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="57.602001" x2="64.872002" stroke-linecap="round" gorn="0.2.0.54"  stroke-linejoin="round"/>
+            <rect id="connector12terminal" fill="none" stroke-width="0" stroke="none" width="0.01554" x="65.1142" y="101.855" height="0.001" />
+            <line id="connector13pin" fill="none" stroke-width="0.5" y1="109.072" y2="109.072" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="57.602001" x2="64.873001" stroke-linecap="round" gorn="0.2.0.56"  stroke-linejoin="round"/>
+            <rect id="connector13terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="65.1152" y="109.072" height="0.001" />
+            <line id="connector14pin" fill="none" stroke-width="0.5" y1="116.272" y2="116.272" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" stroke-miterlimit="10" stroke="#555555" x1="57.602001" x2="64.873001" stroke-linecap="round" gorn="0.2.0.58"  stroke-linejoin="round"/>
+            <rect id="connector14terminal" fill="none" stroke-width="0" stroke="none" width="0.015542" x="65.1152" y="116.272" height="0.001" />
+        </g>
+        <rect id="rect63" fill="#ffffff" stroke-width="0.75" style="stroke-miterlimit:10" stroke="#000000" width="50.400002" x="7.2719998" y="7.2010002" height="116.2" gorn="0.2.1" />
+        <g id="pin_numbers" style="font-size:3px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#555555;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" gorn="0.2.2" >
+            <g transform="translate(58.138442,14.796218)" >
+                <g >
+                    <g id="g5925" gorn="0.2.2.0.0.0" >
+                        <g id="g5927" gorn="0.2.2.0.0.0.0" >
+                            <g id="g5009" gorn="0.2.2.0.0.0.0.0" >
+                                <g id="g5011" gorn="0.2.2.0.0.0.0.0.0" >
+                                    <text id="text5003" gorn="0.2.2.0.0.0.0.0.0.0" >16</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(52.416279,23.5078)">
-        <g >
-            <g  id="g14" gorn="0.4.0.0">
-                <g  id="g16" gorn="0.4.0.0.0">
-                    <text font-size="3.5"  id="text5" gorn="0.4.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">D1</text>
+            <g transform="translate(58.138442,21.987618)" >
+                <g >
+                    <g id="g5932" gorn="0.2.2.1.0.0" >
+                        <g id="g5934" gorn="0.2.2.1.0.0.0" >
+                            <g id="g5014" gorn="0.2.2.1.0.0.0.0" >
+                                <g id="g5016" gorn="0.2.2.1.0.0.0.0.0" >
+                                    <text id="text5005" gorn="0.2.2.1.0.0.0.0.0.0" >17</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(51.958271,30.6992)">
-        <g >
-            <g  id="g19" gorn="0.5.0.0">
-                <g  id="g21" gorn="0.5.0.0.0">
-                    <text font-size="3.5"  id="text7" gorn="0.5.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">D2</text>
+            <g transform="translate(58.138442,29.179018)" >
+                <g >
+                    <g id="g5939" gorn="0.2.2.2.0.0" >
+                        <g id="g5941" gorn="0.2.2.2.0.0.0" >
+                            <g id="g5019" gorn="0.2.2.2.0.0.0.0" >
+                                <g id="g5021" gorn="0.2.2.2.0.0.0.0.0" >
+                                    <text id="text5007" gorn="0.2.2.2.0.0.0.0.0.0" >18</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(51.932636,37.8906)">
-        <g >
-            <g  id="g24" gorn="0.6.0.0">
-                <g  id="g26" gorn="0.6.0.0.0">
-                    <text font-size="3.5"  id="text9" gorn="0.6.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">D3</text>
+            <g transform="translate(58.138442,36.370418)" >
+                <g >
+                    <g id="g5946" gorn="0.2.2.3.0.0" >
+                        <g id="g5948" gorn="0.2.2.3.0.0.0" >
+                            <g id="g5024" gorn="0.2.2.3.0.0.0.0" >
+                                <g id="g5026" gorn="0.2.2.3.0.0.0.0.0" >
+                                    <text id="text5009" gorn="0.2.2.3.0.0.0.0.0.0" >19</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(51.94289,45.0811)">
-        <g >
-            <g  id="g29" gorn="0.7.0.0">
-                <g  id="g31" gorn="0.7.0.0.0">
-                    <text font-size="3.5"  id="text11" gorn="0.7.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">D4</text>
+            <g transform="translate(58.258559,43.560918)" >
+                <g >
+                    <g id="g5953" gorn="0.2.2.4.0.0" >
+                        <g id="g5955" gorn="0.2.2.4.0.0.0" >
+                            <g id="g5029" gorn="0.2.2.4.0.0.0.0" >
+                                <g id="g5031" gorn="0.2.2.4.0.0.0.0.0" >
+                                    <text id="text5011" gorn="0.2.2.4.0.0.0.0.0.0" >20</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="matrix(1 0 0 1 50.1758 52.2725)">
-        <g >
-            <g  id="g34" gorn="0.8.0.0">
-                <g  id="g36" gorn="0.8.0.0.0">
-                    <text font-size="3.5" font-family="DroidSans"  id="text13" gorn="0.8.0.0.0.0" fill="#231F20">3V3</text>
+            <g transform="translate(58.258559,50.752318)" >
+                <g >
+                    <g id="g5960" gorn="0.2.2.5.0.0" >
+                        <g id="g5962" gorn="0.2.2.5.0.0.0" >
+                            <g id="g5034" gorn="0.2.2.5.0.0.0.0" >
+                                <g id="g5036" gorn="0.2.2.5.0.0.0.0.0" >
+                                    <text id="text5013" gorn="0.2.2.5.0.0.0.0.0.0" >21</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(48.658222,59.4629)">
-        <g >
-            <g  id="g39" gorn="0.9.0.0">
-                <g  id="g41" gorn="0.9.0.0.0">
-                    <text font-size="3.5"  id="text15" gorn="0.9.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">GND</text>
+            <g transform="translate(58.258559,57.942718)" >
+                <g >
+                    <g id="g5967" gorn="0.2.2.6.0.0" >
+                        <g id="g5969" gorn="0.2.2.6.0.0.0" >
+                            <g id="g5039" gorn="0.2.2.6.0.0.0.0" >
+                                <g id="g5041" gorn="0.2.2.6.0.0.0.0.0" >
+                                    <text id="text5015" gorn="0.2.2.6.0.0.0.0.0.0" >22</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(51.913837,66.6543)">
-        <g >
-            <g  id="g44" gorn="0.10.0.0">
-                <g  id="g46" gorn="0.10.0.0.0">
-                    <text font-size="3.5"  id="text17" gorn="0.10.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">D5</text>
+            <g transform="translate(58.258559,65.134118)" >
+                <g >
+                    <g id="g5974" gorn="0.2.2.7.0.0" >
+                        <g id="g5976" gorn="0.2.2.7.0.0.0" >
+                            <g id="g5044" gorn="0.2.2.7.0.0.0.0" >
+                                <g id="g5046" gorn="0.2.2.7.0.0.0.0.0" >
+                                    <text id="text5017" gorn="0.2.2.7.0.0.0.0.0.0" >23</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(51.934345,73.8457)">
-        <g >
-            <g  id="g49" gorn="0.11.0.0">
-                <g  id="g51" gorn="0.11.0.0.0">
-                    <text font-size="3.5"  id="text19" gorn="0.11.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">D6</text>
+            <g transform="translate(58.258559,72.325518)" >
+                <g >
+                    <g id="g5981" gorn="0.2.2.8.0.0" >
+                        <g id="g5983" gorn="0.2.2.8.0.0.0" >
+                            <g id="g5049" gorn="0.2.2.8.0.0.0.0" >
+                                <g id="g5051" gorn="0.2.2.8.0.0.0.0.0" >
+                                    <text id="text5019" gorn="0.2.2.8.0.0.0.0.0.0" >24</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(51.932636,81.0352)">
-        <g >
-            <g  id="g54" gorn="0.12.0.0">
-                <g  id="g56" gorn="0.12.0.0.0">
-                    <text font-size="3.5"  id="text21" gorn="0.12.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">D7</text>
+            <g transform="translate(58.258559,79.515018)" >
+                <g >
+                    <g id="g5988" gorn="0.2.2.9.0.0" >
+                        <g id="g5990" gorn="0.2.2.9.0.0.0" >
+                            <g id="g5054" gorn="0.2.2.9.0.0.0.0" >
+                                <g id="g5056" gorn="0.2.2.9.0.0.0.0.0" >
+                                    <text id="text5021" gorn="0.2.2.9.0.0.0.0.0.0" >25</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(51.927509,88.2266)">
-        <g >
-            <g  id="g59" gorn="0.13.0.0">
-                <g  id="g61" gorn="0.13.0.0.0">
-                    <text font-size="3.5"  id="text23" gorn="0.13.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">D8</text>
+            <g transform="translate(58.258559,86.706418)" >
+                <g >
+                    <g id="g5995" gorn="0.2.2.10.0.0" >
+                        <g id="g5997" gorn="0.2.2.10.0.0.0" >
+                            <g id="g5059" gorn="0.2.2.10.0.0.0.0" >
+                                <g id="g5061" gorn="0.2.2.10.0.0.0.0.0" >
+                                    <text id="text5023" gorn="0.2.2.10.0.0.0.0.0.0" >26</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="matrix(1 0 0 1 52.0391 95.418)">
-        <g >
-            <g  id="g64" gorn="0.14.0.0">
-                <g  id="g66" gorn="0.14.0.0.0">
-                    <text font-size="3.5" font-family="DroidSans"  id="text25" gorn="0.14.0.0.0.0" fill="#231F20">RX</text>
+            <g transform="translate(58.258559,93.897818)" >
+                <g >
+                    <g id="g6002" gorn="0.2.2.11.0.0" >
+                        <g id="g6004" gorn="0.2.2.11.0.0.0" >
+                            <g id="g5064" gorn="0.2.2.11.0.0.0.0" >
+                                <g id="g5066" gorn="0.2.2.11.0.0.0.0.0" >
+                                    <text id="text5025" gorn="0.2.2.11.0.0.0.0.0.0" >27</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="matrix(1 0 0 1 52.2871 102.6094)">
-        <g >
-            <g  id="g69" gorn="0.15.0.0">
-                <g  id="g71" gorn="0.15.0.0.0">
-                    <text font-size="3.5" font-family="DroidSans"  id="text27" gorn="0.15.0.0.0.0" fill="#231F20">TX</text>
+            <g transform="translate(58.258559,101.08925)" >
+                <g >
+                    <g id="g6009" gorn="0.2.2.12.0.0" >
+                        <g id="g6011" gorn="0.2.2.12.0.0.0" >
+                            <g id="g5069" gorn="0.2.2.12.0.0.0.0" >
+                                <g id="g5071" gorn="0.2.2.12.0.0.0.0.0" >
+                                    <text id="text5027" gorn="0.2.2.12.0.0.0.0.0.0" >28</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(48.658222,109.7988)">
-        <g >
-            <g  id="g74" gorn="0.16.0.0">
-                <g  id="g76" gorn="0.16.0.0.0">
-                    <text font-size="3.5"  id="text29" gorn="0.16.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">GND</text>
+            <g transform="translate(58.258559,108.27865)" >
+                <g >
+                    <g id="g6016" gorn="0.2.2.13.0.0" >
+                        <g id="g6018" gorn="0.2.2.13.0.0.0" >
+                            <g id="g5074" gorn="0.2.2.13.0.0.0.0" >
+                                <g id="g5076" gorn="0.2.2.13.0.0.0.0.0" >
+                                    <text id="text5029" gorn="0.2.2.13.0.0.0.0.0.0" >29</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="matrix(1 0 0 1 50.1758 116.9902)">
-        <g >
-            <g  id="g79" gorn="0.17.0.0">
-                <g  id="g81" gorn="0.17.0.0.0">
-                    <text font-size="3.5" font-family="DroidSans"  id="text31" gorn="0.17.0.0.0.0" fill="#231F20">3V3</text>
+            <g transform="translate(58.279067,115.47005)" >
+                <g >
+                    <g id="g6023" gorn="0.2.2.14.0.0" >
+                        <g id="g6025" gorn="0.2.2.14.0.0.0" >
+                            <g id="g5079" gorn="0.2.2.14.0.0.0.0" >
+                                <g id="g5081" gorn="0.2.2.14.0.0.0.0.0" >
+                                    <text id="text5031" gorn="0.2.2.14.0.0.0.0.0.0" >30</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(9.2528922,116.9902)">
-        <g >
-            <g  id="g84" gorn="0.18.0.0">
-                <g  id="g86" gorn="0.18.0.0.0">
-                    <text font-size="3.5"  id="text33" gorn="0.18.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">VIN</text>
+            <g transform="translate(3.1909905,115.39005)" >
+                <g >
+                    <g id="g6030" gorn="0.2.2.15.0.0" >
+                        <g id="g6032" gorn="0.2.2.15.0.0.0" >
+                            <g id="g5084" gorn="0.2.2.15.0.0.0.0" >
+                                <g id="g5086" gorn="0.2.2.15.0.0.0.0.0" >
+                                    <text id="text5033" gorn="0.2.2.15.0.0.0.0.0.0" >15</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(9.0819938,109.9199)">
-        <g >
-            <g  id="g89" gorn="0.19.0.0">
-                <g  id="g91" gorn="0.19.0.0.0">
-                    <text font-size="3.5"  id="text35" gorn="0.19.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">GND</text>
+            <g transform="translate(3.0840569,108.31975)" >
+                <g >
+                    <g id="g6037" gorn="0.2.2.16.0.0" >
+                        <g id="g6039" gorn="0.2.2.16.0.0.0" >
+                            <g id="g5089" gorn="0.2.2.16.0.0.0.0" >
+                                <g id="g091" gorn="0.2.2.16.0.0.0.0.0" >
+                                    <text id="text5035" gorn="0.2.2.16.0.0.0.0.0.0" >14</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(8.9931266,102.7266)">
-        <g >
-            <g  id="g94" gorn="0.20.0.0">
-                <g  id="g96" gorn="0.20.0.0.0">
-                    <text font-size="3.5"  id="text37" gorn="0.20.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">RST</text>
+            <g transform="translate(3.2027092,101.12645)" >
+                <g >
+                    <g id="g6044" gorn="0.2.2.17.0.0" >
+                        <g id="g6046" gorn="0.2.2.17.0.0.0" >
+                            <g id="g5094" gorn="0.2.2.17.0.0.0.0" >
+                                <g id="g5096" gorn="0.2.2.17.0.0.0.0.0" >
+                                    <text id="text5037" gorn="0.2.2.17.0.0.0.0.0.0" >13</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(8.9914176,95.5332)">
-        <g >
-            <g  id="g99" gorn="0.21.0.0">
-                <g  id="g101" gorn="0.21.0.0.0">
-                    <text font-size="3.5"  id="text39" gorn="0.21.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">EN</text>
+            <g transform="translate(3.1997796,93.933029)" >
+                <g >
+                    <g id="g6051" gorn="0.2.2.18.0.0" >
+                        <g id="g6053" gorn="0.2.2.18.0.0.0" >
+                            <g id="g5099" gorn="0.2.2.18.0.0.0.0" >
+                                <g id="g5101" gorn="0.2.2.18.0.0.0.0.0" >
+                                    <text id="text5039" gorn="0.2.2.18.0.0.0.0.0.0" >12</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(9.1213004,88.3389)">
-        <g >
-            <g  id="g104" gorn="0.22.0.0">
-                <g  id="g106" gorn="0.22.0.0.0">
-                    <text font-size="3.5"  id="text41" gorn="0.22.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">3V3</text>
+            <g transform="translate(3.6348381,86.738729)" >
+                <g >
+                    <g id="g6058" gorn="0.2.2.19.0.0" >
+                        <g id="g6060" gorn="0.2.2.19.0.0.0" >
+                            <g id="g5104" gorn="0.2.2.19.0.0.0.0" >
+                                <g id="g5106" gorn="0.2.2.19.0.0.0.0.0" >
+                                    <text id="text5041" gorn="0.2.2.19.0.0.0.0.0.0" >11</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(9.0819938,81.1445)">
-        <g >
-            <g  id="g109" gorn="0.23.0.0">
-                <g  id="g111" gorn="0.23.0.0.0">
-                    <text font-size="3.5"  id="text43" gorn="0.23.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">GND</text>
+            <g transform="translate(3.1646233,79.544329)" >
+                <g >
+                    <g id="g6065" gorn="0.2.2.20.0.0" >
+                        <g id="g6067" gorn="0.2.2.20.0.0.0" >
+                            <g id="g5109" gorn="0.2.2.20.0.0.0.0" >
+                                <g id="g5111" gorn="0.2.2.20.0.0.0.0.0" >
+                                    <text id="text5043" gorn="0.2.2.20.0.0.0.0.0.0" >10</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(9.1110465,73.9521)">
-        <g >
-            <g  id="g114" gorn="0.24.0.0">
-                <g  id="g116" gorn="0.24.0.0.0">
-                    <text font-size="3.5"  id="text45" gorn="0.24.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">SK</text>
+            <g transform="translate(4.8228264,72.351929)" >
+                <g >
+                    <g id="g6072" gorn="0.2.2.21.0.0" >
+                        <g id="g6074" gorn="0.2.2.21.0.0.0" >
+                            <g id="g5114" gorn="0.2.2.21.0.0.0.0" >
+                                <g id="g5116" gorn="0.2.2.21.0.0.0.0.0" >
+                                    <text id="text5045" gorn="0.2.2.21.0.0.0.0.0.0" >9</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(9.1110465,66.7578)">
-        <g >
-            <g  id="g119" gorn="0.25.0.0">
-                <g  id="g121" gorn="0.25.0.0.0">
-                    <text font-size="3.5"  id="text47" gorn="0.25.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">S0</text>
+            <g transform="translate(4.8286858,65.157629)" >
+                <g >
+                    <g id="g6079" gorn="0.2.2.22.0.0" >
+                        <g id="g6081" gorn="0.2.2.22.0.0.0" >
+                            <g id="g5119" gorn="0.2.2.22.0.0.0.0" >
+                                <g id="g5121" gorn="0.2.2.22.0.0.0.0.0" >
+                                    <text id="text5047" gorn="0.2.2.22.0.0.0.0.0.0" >8</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(9.1110465,59.5625)">
-        <g >
-            <g  id="g124" gorn="0.26.0.0">
-                <g  id="g126" gorn="0.26.0.0.0">
-                    <text font-size="3.5"  id="text49" gorn="0.26.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">SC</text>
+            <g transform="translate(4.8198967,57.962329)" >
+                <g >
+                    <g id="g6086" gorn="0.2.2.23.0.0" >
+                        <g id="g6088" gorn="0.2.2.23.0.0.0" >
+                            <g id="g5124" gorn="0.2.2.23.0.0.0.0" >
+                                <g id="g5126" gorn="0.2.2.23.0.0.0.0.0" >
+                                    <text id="text5049" gorn="0.2.2.23.0.0.0.0.0.0" >7</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(9.1110465,52.3691)">
-        <g >
-            <g  id="g129" gorn="0.27.0.0">
-                <g  id="g131" gorn="0.27.0.0.0">
-                    <text font-size="3.5"  id="text51" gorn="0.27.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">S1</text>
+            <g transform="translate(4.8140374,50.768929)" >
+                <g >
+                    <g id="g6093" gorn="0.2.2.24.0.0" >
+                        <g id="g6095" gorn="0.2.2.24.0.0.0" >
+                            <g id="g5129" gorn="0.2.2.24.0.0.0.0" >
+                                <g id="g5131" gorn="0.2.2.24.0.0.0.0.0" >
+                                    <text id="text5051" gorn="0.2.2.24.0.0.0.0.0.0" >6</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(9.1110465,45.1758)">
-        <g >
-            <g  id="g134" gorn="0.28.0.0">
-                <g  id="g136" gorn="0.28.0.0.0">
-                    <text font-size="3.5"  id="text53" gorn="0.28.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">S2</text>
+            <g transform="translate(4.8433342,43.575629)" >
+                <g >
+                    <g id="g6100" gorn="0.2.2.25.0.0" >
+                        <g id="g6102" gorn="0.2.2.25.0.0.0" >
+                            <g id="g5134" gorn="0.2.2.25.0.0.0.0" >
+                                <g id="g5136" gorn="0.2.2.25.0.0.0.0.0" >
+                                    <text id="text5053" gorn="0.2.2.25.0.0.0.0.0.0" >5</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(9.1110465,37.9824)">
-        <g >
-            <g  id="g139" gorn="0.29.0.0">
-                <g  id="g141" gorn="0.29.0.0.0">
-                    <text font-size="3.5"  id="text55" gorn="0.29.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">S3</text>
+            <g transform="translate(4.7364006,36.382229)" >
+                <g >
+                    <g id="g6107" gorn="0.2.2.26.0.0" >
+                        <g id="g6109" gorn="0.2.2.26.0.0.0" >
+                            <g id="g5139" gorn="0.2.2.26.0.0.0.0" >
+                                <g id="g5141" gorn="0.2.2.26.0.0.0.0.0" >
+                                    <text id="text5055" gorn="0.2.2.26.0.0.0.0.0.0" >4</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(9.2528922,30.7871)">
-        <g >
-            <g  id="g144" gorn="0.30.0.0">
-                <g  id="g146" gorn="0.30.0.0.0">
-                    <text font-size="3.5"  id="text57" gorn="0.30.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">VU</text>
+            <g transform="translate(4.855053,29.186929)" >
+                <g >
+                    <g id="g6114" gorn="0.2.2.27.0.0" >
+                        <g id="g6116" gorn="0.2.2.27.0.0.0" >
+                            <g id="g5144" gorn="0.2.2.27.0.0.0.0" >
+                                <g id="g5146" gorn="0.2.2.27.0.0.0.0.0" >
+                                    <text id="text5057" gorn="0.2.2.27.0.0.0.0.0.0" >3</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="translate(9.0819938,23.5938)">
-        <g >
-            <g  id="g149" gorn="0.31.0.0">
-                <g  id="g151" gorn="0.31.0.0.0">
-                    <text font-size="3.5"  id="text59" gorn="0.31.0.0.0.0" style="font-size:3.5px;fill:#231f20;font-family:DroidSans">GND</text>
+            <g transform="translate(4.8521233,21.993629)" >
+                <g >
+                    <g id="g6121" gorn="0.2.2.28.0.0" >
+                        <g id="g6123" gorn="0.2.2.28.0.0.0" >
+                            <g id="g5149" gorn="0.2.2.28.0.0.0.0" >
+                                <g id="g5151" gorn="0.2.2.28.0.0.0.0.0" >
+                                    <text id="text5059" gorn="0.2.2.28.0.0.0.0.0.0" >2</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-        </g>
-    </g>
-    <g  transform="matrix(1 0 0 1 9.2734 16.3164)">
-        <g >
-            <g  id="g154" gorn="0.32.0.0">
-                <g  id="g156" gorn="0.32.0.0.0">
-                    <text font-size="3.5" font-family="DroidSans"  id="text61" gorn="0.32.0.0.0.0" fill="#231F20">A0</text>
-                </g>
-            </g>
-        </g>
-    </g>
-    <rect stroke-miterlimit="10" stroke="#231F20"  x="7.272" y="7.201" height="116.2" id="rect63" stroke-width="0.7" gorn="0.33" width="50.4" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector42pin" stroke-width="1" gorn="0.34" y1="15.386" y2="15.401" x1="0.001" x2="7.272" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector41pin" stroke-width="1" gorn="0.35" y1="22.601" y2="22.617" x1="0.001" x2="7.272" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector40pin" stroke-width="1" gorn="0.36" y1="29.801" y2="29.817" x1="0.001" x2="7.272" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector39pin" stroke-width="1" gorn="0.37" y1="36.97" y2="36.986" x1="0.001" x2="7.272" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector38pin" stroke-width="1" gorn="0.38" y1="44.186" y2="44.202" x1="0.001" x2="7.272" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector37pin" stroke-width="1" gorn="0.39" y1="51.386" y2="51.401" x1="0.001" x2="7.272" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector36pin" stroke-width="1" gorn="0.40" y1="58.586" y2="58.602" x1="0.001" x2="7.272" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector35pin" stroke-width="1" gorn="0.41" y1="65.803" y2="65.817" x1="0.001" x2="7.272" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector34pin" stroke-width="1" gorn="0.42" y1="73.002" y2="73.019" x1="0.001" x2="7.272" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector33pin" stroke-width="1" gorn="0.43" y1="80.172" y2="80.187" x1="0.001" x2="7.272" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector19pin" stroke-width="1" gorn="0.44" y1="87.388" y2="87.402" x1="0.001" x2="7.272" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector18pin" stroke-width="1" gorn="0.45" y1="94.588" y2="94.603" x1="0.001" x2="7.272" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector17pin" stroke-width="1" gorn="0.46" y1="101.856" y2="101.873" x1="0.001" x2="7.272" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector16pin" stroke-width="1" gorn="0.47" y1="109.072" y2="109.088" x1="0.001" x2="7.272" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector15pin" stroke-width="1" gorn="0.48" y1="116.272" y2="116.289" x1="0.001" x2="7.272" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector0pin" stroke-width="1" gorn="0.49" y1="15.439" y2="15.455" x1="57.602" x2="64.872" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector1pin" stroke-width="1" gorn="0.50" y1="22.655" y2="22.671" x1="57.602" x2="64.873" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector2pin" stroke-width="1" gorn="0.51" y1="29.855" y2="29.871" x1="57.602" x2="64.873" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector3pin" stroke-width="1" gorn="0.52" y1="37.024" y2="37.039" x1="57.602" x2="64.872" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector4pin" stroke-width="1" gorn="0.53" y1="44.24" y2="44.255" x1="57.602" x2="64.873" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector5pin" stroke-width="1" gorn="0.54" y1="51.439" y2="51.455" x1="57.602" x2="64.873" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector6pin" stroke-width="1" gorn="0.55" y1="58.64" y2="58.656" x1="57.602" x2="64.872" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector7pin" stroke-width="1" gorn="0.56" y1="65.855" y2="65.871" x1="57.602" x2="64.873" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector8pin" stroke-width="1" gorn="0.57" y1="73.057" y2="73.071" x1="57.602" x2="64.873" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector9pin" stroke-width="1" gorn="0.58" y1="80.226" y2="80.24" x1="57.602" x2="64.872" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector10pin" stroke-width="1" gorn="0.59" y1="87.44" y2="87.457" x1="57.602" x2="64.873" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector11pin" stroke-width="1" gorn="0.60" y1="94.642" y2="94.656" x1="57.602" x2="64.873" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector12pin" stroke-width="1" gorn="0.61" y1="101.91" y2="101.927" x1="57.602" x2="64.872" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector13pin" stroke-width="1" gorn="0.62" y1="109.127" y2="109.143" x1="57.602" x2="64.873" fill="none"/>
-    <line stroke-miterlimit="10" stroke="#231F20"  id="connector14pin" stroke-width="1" gorn="0.63" y1="116.326" y2="116.343" x1="57.602" x2="64.873" fill="none"/>
-    <g  transform="translate(22.4104,63.95291)">
-        <g >
-            <g  id="g190" gorn="0.64.0.0">
-                <g  id="g192" gorn="0.64.0.0.0">
-                    <g font-size="4.25"  id="text125" gorn="0.64.0.0.0.0" style="font-size:4.25px;font-family:DroidSans">
-                        <text  x="-5.1041465" y="" id="tspan3175" gorn="0.64.0.0.0.0.0" style="font-size:6.39999819px">NodeMCU </text>
+            <g transform="translate(5.2871819,14.716229)" >
+                <g >
+                    <g id="g6128" gorn="0.2.2.29.0.0" >
+                        <g id="g6130" gorn="0.2.2.29.0.0.0" >
+                            <g id="g5154" gorn="0.2.2.29.0.0.0.0" >
+                                <g id="g5156" gorn="0.2.2.29.0.0.0.0.0" >
+                                    <text id="text5061" gorn="0.2.2.29.0.0.0.0.0.0" >1</text>
+                                </g>
+                            </g>
+                        </g>
                     </g>
                 </g>
             </g>
         </g>
+        <g id="pin_labels" style="font-size:3.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#565656;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" gorn="0.2.3" >
+            <g transform="translate(51.941181,16.3164)" >
+                <g >
+                    <g id="g6136" gorn="0.2.3.0.0.0" >
+                        <g id="g6138" gorn="0.2.3.0.0.0.0" >
+                            <g id="g9" gorn="0.2.3.0.0.0.0.0" >
+                                <g id="g11" gorn="0.2.3.0.0.0.0.0.0" >
+                                    <text id="text3" gorn="0.2.3.0.0.0.0.0.0.0" >D0</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(52.416279,23.5078)" >
+                <g >
+                    <g id="g6143" gorn="0.2.3.1.0.0" >
+                        <g id="g6145" gorn="0.2.3.1.0.0.0" >
+                            <g id="g14" gorn="0.2.3.1.0.0.0.0" >
+                                <g id="g16" gorn="0.2.3.1.0.0.0.0.0" >
+                                    <text id="text5" gorn="0.2.3.1.0.0.0.0.0.0" >D1</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(51.958271,30.6992)" >
+                <g >
+                    <g id="g6150" gorn="0.2.3.2.0.0" >
+                        <g id="g6152" gorn="0.2.3.2.0.0.0" >
+                            <g id="g19" gorn="0.2.3.2.0.0.0.0" >
+                                <g id="g21" gorn="0.2.3.2.0.0.0.0.0" >
+                                    <text id="text7" gorn="0.2.3.2.0.0.0.0.0.0" >D2</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(51.932636,37.8906)" >
+                <g >
+                    <g id="g6157" gorn="0.2.3.3.0.0" >
+                        <g id="g6159" gorn="0.2.3.3.0.0.0" >
+                            <g id="g24" gorn="0.2.3.3.0.0.0.0" >
+                                <g id="g26" gorn="0.2.3.3.0.0.0.0.0" >
+                                    <text id="text9" gorn="0.2.3.3.0.0.0.0.0.0" >D3</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(51.94289,45.0811)" >
+                <g >
+                    <g id="g6164" gorn="0.2.3.4.0.0" >
+                        <g id="g6166" gorn="0.2.3.4.0.0.0" >
+                            <g id="g29" gorn="0.2.3.4.0.0.0.0" >
+                                <g id="g31" gorn="0.2.3.4.0.0.0.0.0" >
+                                    <text id="text11" gorn="0.2.3.4.0.0.0.0.0.0" >D4</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(50.1758,52.2725)" >
+                <g >
+                    <g id="g6171" gorn="0.2.3.5.0.0" >
+                        <g id="g6173" gorn="0.2.3.5.0.0.0" >
+                            <g id="g34" gorn="0.2.3.5.0.0.0.0" >
+                                <g id="g36" gorn="0.2.3.5.0.0.0.0.0" >
+                                    <text id="text13" gorn="0.2.3.5.0.0.0.0.0.0" >3V3</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(48.658222,59.4629)" >
+                <g >
+                    <g id="g6178" gorn="0.2.3.6.0.0" >
+                        <g id="g6180" gorn="0.2.3.6.0.0.0" >
+                            <g id="g39" gorn="0.2.3.6.0.0.0.0" >
+                                <g id="g41" gorn="0.2.3.6.0.0.0.0.0" >
+                                    <text id="text15" gorn="0.2.3.6.0.0.0.0.0.0" >GND</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(51.913837,66.6543)" >
+                <g >
+                    <g id="g6185" gorn="0.2.3.7.0.0" >
+                        <g id="g6187" gorn="0.2.3.7.0.0.0" >
+                            <g id="g44" gorn="0.2.3.7.0.0.0.0" >
+                                <g id="g46" gorn="0.2.3.7.0.0.0.0.0" >
+                                    <text id="text17" gorn="0.2.3.7.0.0.0.0.0.0" >D5</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(51.934345,73.8457)" >
+                <g >
+                    <g id="g6192" gorn="0.2.3.8.0.0" >
+                        <g id="g6194" gorn="0.2.3.8.0.0.0" >
+                            <g id="g49" gorn="0.2.3.8.0.0.0.0" >
+                                <g id="g51" gorn="0.2.3.8.0.0.0.0.0" >
+                                    <text id="text19" gorn="0.2.3.8.0.0.0.0.0.0" >D6</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(51.932636,81.0352)" >
+                <g >
+                    <g id="g6199" gorn="0.2.3.9.0.0" >
+                        <g id="g6201" gorn="0.2.3.9.0.0.0" >
+                            <g id="g54" gorn="0.2.3.9.0.0.0.0" >
+                                <g id="g56" gorn="0.2.3.9.0.0.0.0.0" >
+                                    <text id="text21" gorn="0.2.3.9.0.0.0.0.0.0" >D7</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(51.927509,88.2266)" >
+                <g >
+                    <g id="g6206" gorn="0.2.3.10.0.0" >
+                        <g id="g6208" gorn="0.2.3.10.0.0.0" >
+                            <g id="g59" gorn="0.2.3.10.0.0.0.0" >
+                                <g id="g61" gorn="0.2.3.10.0.0.0.0.0" >
+                                    <text id="text23" gorn="0.2.3.10.0.0.0.0.0.0" >D8</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(52.0391,95.418)" >
+                <g >
+                    <g id="g6213" gorn="0.2.3.11.0.0" >
+                        <g id="g6215" gorn="0.2.3.11.0.0.0" >
+                            <g id="g64" gorn="0.2.3.11.0.0.0.0" >
+                                <g id="g66" gorn="0.2.3.11.0.0.0.0.0" >
+                                    <text id="text25" gorn="0.2.3.11.0.0.0.0.0.0" >RX</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(52.2871,102.6094)" >
+                <g >
+                    <g id="g6220" gorn="0.2.3.12.0.0" >
+                        <g id="g6222" gorn="0.2.3.12.0.0.0" >
+                            <g id="g69" gorn="0.2.3.12.0.0.0.0" >
+                                <g id="g71" gorn="0.2.3.12.0.0.0.0.0" >
+                                    <text id="text27" gorn="0.2.3.12.0.0.0.0.0.0" >TX</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(48.658222,109.7988)" >
+                <g >
+                    <g id="g6227" gorn="0.2.3.13.0.0" >
+                        <g id="g6229" gorn="0.2.3.13.0.0.0" >
+                            <g id="g74" gorn="0.2.3.13.0.0.0.0" >
+                                <g id="g76" gorn="0.2.3.13.0.0.0.0.0" >
+                                    <text id="text29" gorn="0.2.3.13.0.0.0.0.0.0" >GND</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(50.1758,116.9902)" >
+                <g >
+                    <g id="g6234" gorn="0.2.3.14.0.0" >
+                        <g id="g6236" gorn="0.2.3.14.0.0.0" >
+                            <g id="g79" gorn="0.2.3.14.0.0.0.0" >
+                                <g id="g81" gorn="0.2.3.14.0.0.0.0.0" >
+                                    <text id="text31" gorn="0.2.3.14.0.0.0.0.0.0" >3V3</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(9.2528922,116.9902)" >
+                <g >
+                    <g id="g6241" gorn="0.2.3.15.0.0" >
+                        <g id="g6243" gorn="0.2.3.15.0.0.0" >
+                            <g id="g84" gorn="0.2.3.15.0.0.0.0" >
+                                <g id="g86" gorn="0.2.3.15.0.0.0.0.0" >
+                                    <text id="text33" gorn="0.2.3.15.0.0.0.0.0.0" >VIN</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(9.0819938,109.9199)" >
+                <g >
+                    <g id="g6248" gorn="0.2.3.16.0.0" >
+                        <g id="g6250" gorn="0.2.3.16.0.0.0" >
+                            <g id="g89" gorn="0.2.3.16.0.0.0.0" >
+                                <g id="g91" gorn="0.2.3.16.0.0.0.0.0" >
+                                    <text id="text35" gorn="0.2.3.16.0.0.0.0.0.0" >GND</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(8.9931266,102.7266)" >
+                <g >
+                    <g id="g6255" gorn="0.2.3.17.0.0" >
+                        <g id="g6257" gorn="0.2.3.17.0.0.0" >
+                            <g id="g94" gorn="0.2.3.17.0.0.0.0" >
+                                <g id="g96" gorn="0.2.3.17.0.0.0.0.0" >
+                                    <text id="text37" gorn="0.2.3.17.0.0.0.0.0.0" >RST</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(8.9914176,95.5332)" >
+                <g >
+                    <g id="g6262" gorn="0.2.3.18.0.0" >
+                        <g id="g6264" gorn="0.2.3.18.0.0.0" >
+                            <g id="g99" gorn="0.2.3.18.0.0.0.0" >
+                                <g id="g101" gorn="0.2.3.18.0.0.0.0.0" >
+                                    <text id="text39" gorn="0.2.3.18.0.0.0.0.0.0" >EN</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(9.1213004,88.3389)" >
+                <g >
+                    <g id="g6269" gorn="0.2.3.19.0.0" >
+                        <g id="g6271" gorn="0.2.3.19.0.0.0" >
+                            <g id="g104" gorn="0.2.3.19.0.0.0.0" >
+                                <g id="g106" gorn="0.2.3.19.0.0.0.0.0" >
+                                    <text id="text41" gorn="0.2.3.19.0.0.0.0.0.0" >3V3</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(9.0819938,81.1445)" >
+                <g >
+                    <g id="g6276" gorn="0.2.3.20.0.0" >
+                        <g id="g6278" gorn="0.2.3.20.0.0.0" >
+                            <g id="g109" gorn="0.2.3.20.0.0.0.0" >
+                                <g id="g111" gorn="0.2.3.20.0.0.0.0.0" >
+                                    <text id="text43" gorn="0.2.3.20.0.0.0.0.0.0" >GND</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(9.1110465,73.9521)" >
+                <g >
+                    <g id="g6283" gorn="0.2.3.21.0.0" >
+                        <g id="g6285" gorn="0.2.3.21.0.0.0" >
+                            <g id="g114" gorn="0.2.3.21.0.0.0.0" >
+                                <g id="g116" gorn="0.2.3.21.0.0.0.0.0" >
+                                    <text id="text45" gorn="0.2.3.21.0.0.0.0.0.0" >SK</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(9.1110465,66.7578)" >
+                <g >
+                    <g id="g6290" gorn="0.2.3.22.0.0" >
+                        <g id="g6292" gorn="0.2.3.22.0.0.0" >
+                            <g id="g119" gorn="0.2.3.22.0.0.0.0" >
+                                <g id="g121" gorn="0.2.3.22.0.0.0.0.0" >
+                                    <text id="text47" gorn="0.2.3.22.0.0.0.0.0.0" >S0</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(9.1110465,59.5625)" >
+                <g >
+                    <g id="g6297" gorn="0.2.3.23.0.0" >
+                        <g id="g6299" gorn="0.2.3.23.0.0.0" >
+                            <g id="g124" gorn="0.2.3.23.0.0.0.0" >
+                                <g id="g126" gorn="0.2.3.23.0.0.0.0.0" >
+                                    <text id="text49" gorn="0.2.3.23.0.0.0.0.0.0" >SC</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(9.1110465,52.3691)" >
+                <g >
+                    <g id="g6304" gorn="0.2.3.24.0.0" >
+                        <g id="g6306" gorn="0.2.3.24.0.0.0" >
+                            <g id="g129" gorn="0.2.3.24.0.0.0.0" >
+                                <g id="g131" gorn="0.2.3.24.0.0.0.0.0" >
+                                    <text id="text51" gorn="0.2.3.24.0.0.0.0.0.0" >S1</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(9.1110465,45.1758)" >
+                <g >
+                    <g id="g6311" gorn="0.2.3.25.0.0" >
+                        <g id="g6313" gorn="0.2.3.25.0.0.0" >
+                            <g id="g134" gorn="0.2.3.25.0.0.0.0" >
+                                <g id="g136" gorn="0.2.3.25.0.0.0.0.0" >
+                                    <text id="text53" gorn="0.2.3.25.0.0.0.0.0.0" >S2</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(9.1110465,37.9824)" >
+                <g >
+                    <g id="g6318" gorn="0.2.3.26.0.0" >
+                        <g id="g6320" gorn="0.2.3.26.0.0.0" >
+                            <g id="g139" gorn="0.2.3.26.0.0.0.0" >
+                                <g id="g141" gorn="0.2.3.26.0.0.0.0.0" >
+                                    <text id="text55" gorn="0.2.3.26.0.0.0.0.0.0" >S3</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(9.2528922,30.7871)" >
+                <g >
+                    <g id="g6325" gorn="0.2.3.27.0.0" >
+                        <g id="g6327" gorn="0.2.3.27.0.0.0" >
+                            <g id="g144" gorn="0.2.3.27.0.0.0.0" >
+                                <g id="g146" gorn="0.2.3.27.0.0.0.0.0" >
+                                    <text id="text57" gorn="0.2.3.27.0.0.0.0.0.0" >VU</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(9.0819938,23.5938)" >
+                <g >
+                    <g id="g6332" gorn="0.2.3.28.0.0" >
+                        <g id="g6334" gorn="0.2.3.28.0.0.0" >
+                            <g id="g149" gorn="0.2.3.28.0.0.0.0" >
+                                <g id="g151" gorn="0.2.3.28.0.0.0.0.0" >
+                                    <text id="text59" gorn="0.2.3.28.0.0.0.0.0.0" >GND</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(9.2734,16.3164)" >
+                <g >
+                    <g id="g6339" gorn="0.2.3.29.0.0" >
+                        <g id="g6341" gorn="0.2.3.29.0.0.0" >
+                            <g id="g154" gorn="0.2.3.29.0.0.0.0" >
+                                <g id="g156" gorn="0.2.3.29.0.0.0.0.0" >
+                                    <text id="text61" gorn="0.2.3.29.0.0.0.0.0.0" >A0</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="sensor_label" fill="#000000" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" fill-opacity="1" stroke="none" font-size="5.44" xml:space="preserve" gorn="0.2.4"  xmlns:xml="http://www.w3.org/XML/1998/namespace">
+            <text id="tspan3175" x="17.306253" y="63.952911" gorn="0.2.4.0" >NodeMCU</text>
+            <text id="text127" style="font-size:4.25px" x="24.581055" y="70.652512" gorn="0.2.4.1" >v3 LoLin</text>
+        </g>
     </g>
-    <text font-size="4.25"  x="24.581055" y="70.652512" id="text127" gorn="0.65" style="font-size:4.25px;font-family:DroidSans">v3 LoLin</text>
 </svg>

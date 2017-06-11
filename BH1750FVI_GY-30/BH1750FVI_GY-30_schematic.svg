@@ -1,116 +1,381 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg xmlns="http://www.w3.org/2000/svg"  height="0.620278in" version="1.1" x="0px" y="0px" xml:space="preserve" id="_x30_" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="0.994694in" viewBox="0 0 71.618 44.66" enable-background="new -6.718 -0.5 71.618 44.66" gorn="0">
-    <metadata  id="metadata81">
+<svg xmlns="http://www.w3.org/2000/svg" id="_x30_" width="0.99469399in" version="1.1" xml:space="preserve" height="0.620278in" gorn="0"  xmlns:xml="http://www.w3.org/XML/1998/namespace" viewBox="0 0 71.618 44.66">
+    <desc >
+        <referenceFile >BH1750FVI_GY-30_schematic.svg</referenceFile>
+    </desc>
+    <metadata id="metadata81" >
         <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <cc:Work rdf:about="" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
                 <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
-                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
             </cc:Work>
         </rdf:RDF>
     </metadata>
-    <defs  id="defs79"/>
-    <g  transform="translate(6.718,0.5)">
-        <g >
+    <g id="schematic" gorn="0.2" >
+        <g id="pins" gorn="0.2.0" >
+            <line fill="none" id="connector10pin" stroke-width="0.5" y1="14.4" y2="14.4" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" stroke="#555555" x1="57.400002" x2="71.400002" stroke-linecap="round" gorn="0.2.0.0"  stroke-linejoin="round"/>
+            <rect id="connector10terminal" fill="none" stroke-width="0" stroke="none" x="71.6355" width="0.029" y="14.3995" height="0.001"/>
+            <rect fill="none" stroke-width="0" stroke="none" x="71.6355" width="0.029" y="14.3995" height="0.001" />
+            <rect id="connector5terminal" fill="none" stroke="none" width="0.001" x="71.42" y="14.4" height="0.0154" gorn="0.2.0.2" />
+            <line fill="none" id="connector8pin" stroke-width="0.5" y1="7.2010002" y2="7.2010002" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" stroke="#555555" x1="57.400002" x2="71.400002" stroke-linecap="round" gorn="0.2.0.3"  stroke-linejoin="round"/>
+            <rect id="connector8terminal" fill="none" stroke-width="0" stroke="none" x="71.6355" width="0.029" y="7.2005" height="0.001" gorn="0.2.0.4" />
+            <rect id="connector4terminal" fill="none" stroke="none" width="0.001" x="71.42" y="7.2010002" height="0.0154" gorn="0.2.0.5" />
+            <line fill="none" id="connector12pin" stroke-width="0.5" y1="21.740999" y2="21.740999" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" stroke="#555555" x1="57.400002" x2="71.400002" stroke-linecap="round" gorn="0.2.0.6"  stroke-linejoin="round"/>
+            <rect id="connector12terminal" fill="none" stroke-width="0" stroke="none" x="71.6355" width="0.029" y="21.7405" height="0.001" gorn="0.2.0.7" />
+            <rect id="connector3terminal" fill="none" stroke="none" width="0.001" x="71.42" y="21.740999" height="0.0154" gorn="0.2.0.8" />
+            <line fill="none" id="connector13pin" stroke-width="0.5" y1="28.833" y2="28.833" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" stroke="#555555" x1="57.400002" x2="71.400002" stroke-linecap="round" gorn="0.2.0.9"  stroke-linejoin="round"/>
+            <rect id="connector13terminal" fill="none" stroke-width="0" stroke="none" x="71.6355" width="0.029" y="28.8325" height="0.001" gorn="0.2.0.10" />
+            <rect id="connector2terminal" fill="none" stroke="none" width="0.001" x="71.42" y="28.833" height="0.0154" gorn="0.2.0.11" />
+            <line fill="none" id="connector9pin" stroke-width="0.5" y1="36.174999" y2="36.174999" style="fill:none;stroke:#555555;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" stroke="#555555" x1="57.400002" x2="71.400002" stroke-linecap="round" gorn="0.2.0.12"  stroke-linejoin="round"/>
+            <rect id="connector9terminal" fill="none" stroke-width="0" stroke="none" x="71.6355" width="0.029" y="36.1745" height="0.001" gorn="0.2.0.13" />
+            <rect id="connector1terminal" fill="none" stroke="none" width="0.001" x="71.42" y="36.174999" height="0.0154" gorn="0.2.0.14" />
+        </g>
+        <rect id="rect9" fill="#ffffff" stroke-width="0.75" style="stroke-miterlimit:10" stroke="#000000" width="56.549999" x="0.49900001" y="0.49900001" height="43.700001" gorn="0.2.1" />
+        <g id="pin_numbers" style="font-size:3px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#555555;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" gorn="0.2.2" >
+            <g transform="translate(58,35)" >
+                <g >
+                    <g >
+                        <g id="g3596" gorn="0.2.2.0.0.0.0" >
+                            <g id="g40" gorn="0.2.2.0.0.0.0.0" >
+                                <g id="g42" gorn="0.2.2.0.0.0.0.0.0" >
+                                    <g id="g59" gorn="0.2.2.0.0.0.0.0.0.0" >
+                                        <g id="g61" gorn="0.2.2.0.0.0.0.0.0.0.0" >
+                                            <g id="g63" gorn="0.2.2.0.0.0.0.0.0.0.0.0" >
+                                                <g id="g65" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0" >
+                                                    <g id="g67" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.0" >
+                                                        <g id="g69" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                            <g id="g71" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                <g id="text73" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                    <text id="tspan3105" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >5</text>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(58,27.8)" >
+                <g >
+                    <g >
+                        <g id="g3609" gorn="0.2.2.1.0.0.0" >
+                            <g id="g52" gorn="0.2.2.1.0.0.0.0" >
+                                <g id="g54" gorn="0.2.2.1.0.0.0.0.0" >
+                                    <g id="g75" gorn="0.2.2.1.0.0.0.0.0.0" >
+                                        <g id="g77" gorn="0.2.2.1.0.0.0.0.0.0.0" >
+                                            <g id="g79" gorn="0.2.2.1.0.0.0.0.0.0.0.0" >
+                                                <g id="g81" gorn="0.2.2.1.0.0.0.0.0.0.0.0.0" >
+                                                    <g id="g83" gorn="0.2.2.1.0.0.0.0.0.0.0.0.0.0" >
+                                                        <g id="g85" gorn="0.2.2.1.0.0.0.0.0.0.0.0.0.0.0" >
+                                                            <g id="g87" gorn="0.2.2.1.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                <g id="text89" gorn="0.2.2.1.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                    <text id="tspan3107" gorn="0.2.2.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >4</text>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(58,20.6)" >
+                <g >
+                    <g >
+                        <g id="g3622" gorn="0.2.2.2.0.0.0" >
+                            <g id="g64" gorn="0.2.2.2.0.0.0.0" >
+                                <g id="g66" gorn="0.2.2.2.0.0.0.0.0" >
+                                    <g id="g91" gorn="0.2.2.2.0.0.0.0.0.0" >
+                                        <g id="g93" gorn="0.2.2.2.0.0.0.0.0.0.0" >
+                                            <g id="g95" gorn="0.2.2.2.0.0.0.0.0.0.0.0" >
+                                                <g id="g97" gorn="0.2.2.2.0.0.0.0.0.0.0.0.0" >
+                                                    <g id="g99" gorn="0.2.2.2.0.0.0.0.0.0.0.0.0.0" >
+                                                        <g id="g101" gorn="0.2.2.2.0.0.0.0.0.0.0.0.0.0.0" >
+                                                            <g id="g103" gorn="0.2.2.2.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                <g id="text105" gorn="0.2.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                    <text id="tspan3109" gorn="0.2.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >3</text>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(58,13.4)" >
+                <g >
+                    <g >
+                        <g id="g4622" gorn="0.2.2.3.0.0.0" >
+                            <g id="g4064" gorn="0.2.2.3.0.0.0.0" >
+                                <g id="g4066" gorn="0.2.2.3.0.0.0.0.0" >
+                                    <g id="g4091" gorn="0.2.2.3.0.0.0.0.0.0" >
+                                        <g id="g4093" gorn="0.2.2.3.0.0.0.0.0.0.0" >
+                                            <g id="g4095" gorn="0.2.2.3.0.0.0.0.0.0.0.0" >
+                                                <g id="g4097" gorn="0.2.2.3.0.0.0.0.0.0.0.0.0" >
+                                                    <g id="g4099" gorn="0.2.2.3.0.0.0.0.0.0.0.0.0.0" >
+                                                        <g id="g40101" gorn="0.2.2.3.0.0.0.0.0.0.0.0.0.0.0" >
+                                                            <g id="g40103" gorn="0.2.2.3.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                <g id="text40105" gorn="0.2.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                    <text id="tspan4109" gorn="0.2.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >2</text>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(58,6.2)" >
+                <g >
+                    <g >
+                        <g id="g5622" gorn="0.2.2.4.0.0.0" >
+                            <g id="g5064" gorn="0.2.2.4.0.0.0.0" >
+                                <g id="g5066" gorn="0.2.2.4.0.0.0.0.0" >
+                                    <g id="g5091" gorn="0.2.2.4.0.0.0.0.0.0" >
+                                        <g id="g5093" gorn="0.2.2.4.0.0.0.0.0.0.0" >
+                                            <g id="g5095" gorn="0.2.2.4.0.0.0.0.0.0.0.0" >
+                                                <g id="g5097" gorn="0.2.2.4.0.0.0.0.0.0.0.0.0" >
+                                                    <g id="g5099" gorn="0.2.2.4.0.0.0.0.0.0.0.0.0.0" >
+                                                        <g id="g50101" gorn="0.2.2.4.0.0.0.0.0.0.0.0.0.0.0" >
+                                                            <g id="g50103" gorn="0.2.2.4.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                <g id="text50105" gorn="0.2.2.4.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                    <text id="tspan5109" gorn="0.2.2.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >1</text>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="pin_labels" style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#565656;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" gorn="0.2.3" >
+            <g transform="translate(48,38)" >
+                <g >
+                    <g >
+                        <g id="g3636" gorn="0.2.3.0.0.0.0" >
+                            <g id="g110" gorn="0.2.3.0.0.0.0.0" >
+                                <g id="g112" gorn="0.2.3.0.0.0.0.0.0" >
+                                    <g id="g3128" gorn="0.2.3.0.0.0.0.0.0.0" >
+                                        <g id="g3130" gorn="0.2.3.0.0.0.0.0.0.0.0" >
+                                            <g id="g3132" gorn="0.2.3.0.0.0.0.0.0.0.0.0" >
+                                                <g id="g3134" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0" >
+                                                    <g id="g3136" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.0" >
+                                                        <g id="g3138" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                            <g id="g3140" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                <g id="text3142" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                    <text id="tspan3101" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >GND</text>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(48,30.8)" >
+                <g >
+                    <g >
+                        <g id="g3649" gorn="0.2.3.1.0.0.0" >
+                            <g id="g9" gorn="0.2.3.1.0.0.0.0" >
+                                <g id="g11" gorn="0.2.3.1.0.0.0.0.0" >
+                                    <g id="g13" gorn="0.2.3.1.0.0.0.0.0.0" >
+                                        <g id="g15" gorn="0.2.3.1.0.0.0.0.0.0.0" >
+                                            <g id="g17" gorn="0.2.3.1.0.0.0.0.0.0.0.0" >
+                                                <g id="g19" gorn="0.2.3.1.0.0.0.0.0.0.0.0.0" >
+                                                    <g id="g21" gorn="0.2.3.1.0.0.0.0.0.0.0.0.0.0" >
+                                                        <g id="g23" gorn="0.2.3.1.0.0.0.0.0.0.0.0.0.0.0" >
+                                                            <g id="g25" gorn="0.2.3.1.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                <g id="text25" gorn="0.2.3.1.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                    <text id="tspan3099" gorn="0.2.3.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >AD0</text>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(48,23.6)" >
+                <g >
+                    <g >
+                        <g id="g3662" gorn="0.2.3.2.0.0.0" >
+                            <g id="g28" gorn="0.2.3.2.0.0.0.0" >
+                                <g id="g30" gorn="0.2.3.2.0.0.0.0.0" >
+                                    <g id="g43" gorn="0.2.3.2.0.0.0.0.0.0" >
+                                        <g id="g45" gorn="0.2.3.2.0.0.0.0.0.0.0" >
+                                            <g id="g47" gorn="0.2.3.2.0.0.0.0.0.0.0.0" >
+                                                <g id="g49" gorn="0.2.3.2.0.0.0.0.0.0.0.0.0" >
+                                                    <g id="g51" gorn="0.2.3.2.0.0.0.0.0.0.0.0.0.0" >
+                                                        <g id="g53" gorn="0.2.3.2.0.0.0.0.0.0.0.0.0.0.0" >
+                                                            <g id="g55" gorn="0.2.3.2.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                <g id="text57" gorn="0.2.3.2.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                    <text id="tspan3103" gorn="0.2.3.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >SDA</text>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(48,16.4)" >
+                <g >
+                    <g >
+                        <g id="g4662" gorn="0.2.3.3.0.0.0" >
+                            <g id="g4028" gorn="0.2.3.3.0.0.0.0" >
+                                <g id="g4030" gorn="0.2.3.3.0.0.0.0.0" >
+                                    <g id="g4043" gorn="0.2.3.3.0.0.0.0.0.0" >
+                                        <g id="g4045" gorn="0.2.3.3.0.0.0.0.0.0.0" >
+                                            <g id="g4047" gorn="0.2.3.3.0.0.0.0.0.0.0.0" >
+                                                <g id="g4049" gorn="0.2.3.3.0.0.0.0.0.0.0.0.0" >
+                                                    <g id="g4051" gorn="0.2.3.3.0.0.0.0.0.0.0.0.0.0" >
+                                                        <g id="g4053" gorn="0.2.3.3.0.0.0.0.0.0.0.0.0.0.0" >
+                                                            <g id="g4055" gorn="0.2.3.3.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                <g id="text4057" gorn="0.2.3.3.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                    <text id="tspan4103" gorn="0.2.3.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >SCL</text>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(48,9.2)" >
+                <g >
+                    <g >
+                        <g id="g5662" gorn="0.2.3.4.0.0.0" >
+                            <g id="g5028" gorn="0.2.3.4.0.0.0.0" >
+                                <g id="g5030" gorn="0.2.3.4.0.0.0.0.0" >
+                                    <g id="g5043" gorn="0.2.3.4.0.0.0.0.0.0" >
+                                        <g id="g5045" gorn="0.2.3.4.0.0.0.0.0.0.0" >
+                                            <g id="g5047" gorn="0.2.3.4.0.0.0.0.0.0.0.0" >
+                                                <g id="g5049" gorn="0.2.3.4.0.0.0.0.0.0.0.0.0" >
+                                                    <g id="g5051" gorn="0.2.3.4.0.0.0.0.0.0.0.0.0.0" >
+                                                        <g id="g5053" gorn="0.2.3.4.0.0.0.0.0.0.0.0.0.0.0" >
+                                                            <g id="g5055" gorn="0.2.3.4.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                <g id="text5057" gorn="0.2.3.4.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                    <text id="tspan5103" gorn="0.2.3.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >VCC</text>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(1.1346277,11.348112)" >
             <g >
-                <g  id="g3" gorn="0.2.0.0.0">
-                    <g  id="g5" gorn="0.2.0.0.0.0">
-                        <g  id="g7" gorn="0.2.0.0.0.0.0">
-                            <g  id="g9" gorn="0.2.0.0.0.0.0.0">
-                                <desc  id="0.0.0">
-                                    <referenceFile  id="0.0.0.0">Schematic.AD584.svg</referenceFile>
-                                </desc>
-                                <rect  height="0.071" x="0" fill="none" y="7.128" id="connector1terminal" width="0.004" gorn="0.2.0.0.0.0.0.0.1"/>
-                                <rect  height="0.005" x="0" fill="none" y="14.396" id="connector2terminal" width="0.071" gorn="0.2.0.0.0.0.0.0.2"/>
-                                <line  fill="none" stroke-width="1" id="connector9pin" y1="14.4" stroke="#000000" y2="14.4" gorn="0.2.0.0.0.0.0.0.3" x1="64.899" x2="50.494"/>
-                                <polygon  fill="none" id="connector3terminal" points="64.802,14.396 64.895,14.396 64.895,14.4 64.895,14.4 " gorn="0.2.0.0.0.0.0.0.4"/>
-                                <line  fill="none" stroke-width="1" id="connector8pin" y1="7.201" stroke="#000000" y2="7.201" gorn="0.2.0.0.0.0.0.0.5" x1="50.494" x2="64.895"/>
-                                <polygon  fill="none" id="connector4terminal" points="64.802,7.054 64.808,7.054 64.895,7.201 64.802,7.201 " gorn="0.2.0.0.0.0.0.0.6"/>
-                                <g  transform="matrix(0.8074,0,0,1,43.748651,23.108946)">
-                                    <g >
-                                        <g >
-                                            <g  id="g19" gorn="0.2.0.0.0.0.0.0.7.0.0.0">
-                                                <g  id="g21" gorn="0.2.0.0.0.0.0.0.7.0.0.0.0">
-                                                    <g  id="g23" gorn="0.2.0.0.0.0.0.0.7.0.0.0.0.0">
-                                                        <text  font-size="4" style="font-size:4px;font-family:Droid Sans" id="_x30_.1.16" gorn="0.2.0.0.0.0.0.0.7.0.0.0.0.0.0">SCL</text>
+                <g >
+                    <g id="sensor_label" fill="#000000" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" fill-opacity="1" stroke="none" font-size="5.6" xml:space="preserve" gorn="0.2.4.0.0.0"  xmlns:xml="http://www.w3.org/XML/1998/namespace">
+                        <g transform="translate(14.29742,16.3481)" >
+                            <g >
+                                <g >
+                                    <g id="g3676" gorn="0.2.4.0.0.0.0.0.0.0" >
+                                        <g id="g98" gorn="0.2.4.0.0.0.0.0.0.0.0" >
+                                            <g id="g100" gorn="0.2.4.0.0.0.0.0.0.0.0.0" >
+                                                <g id="g131" gorn="0.2.4.0.0.0.0.0.0.0.0.0.0" >
+                                                    <g id="g133" gorn="0.2.4.0.0.0.0.0.0.0.0.0.0.0" >
+                                                        <g id="g135" gorn="0.2.4.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                            <g id="g137" gorn="0.2.4.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                <g id="g139" gorn="0.2.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                    <g id="g141" gorn="0.2.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                        <g id="g143" gorn="0.2.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                            <text id="text145" gorn="0.2.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >GY-30</text>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
                                                     </g>
                                                 </g>
                                             </g>
                                         </g>
                                     </g>
                                 </g>
-                                <g  transform="matrix(0.8074,0,0,1,42.2947,15.736143)">
-                                    <g >
-                                        <g >
-                                            <g  id="g26" gorn="0.2.0.0.0.0.0.0.8.0.0.0">
-                                                <g  id="g28" gorn="0.2.0.0.0.0.0.0.8.0.0.0.0">
-                                                    <g  id="g30" gorn="0.2.0.0.0.0.0.0.8.0.0.0.0.0">
-                                                        <text  font-size="4" style="font-size:4px;font-family:Droid Sans" id="text32" gorn="0.2.0.0.0.0.0.0.8.0.0.0.0.0.0">GND</text>
-                                                    </g>
-                                                </g>
-                                            </g>
-                                        </g>
-                                    </g>
-                                </g>
-                                <g  transform="matrix(0.8074,0,0,1,43.24718,8.4553396)">
-                                    <g >
-                                        <g >
-                                            <g  id="g34" gorn="0.2.0.0.0.0.0.0.9.0.0.0">
-                                                <g  id="g36" gorn="0.2.0.0.0.0.0.0.9.0.0.0.0">
-                                                    <g  id="g38" gorn="0.2.0.0.0.0.0.0.9.0.0.0.0.0">
-                                                        <text  font-size="4" style="font-size:4px;font-family:Droid Sans" id="_x30_.1.16_4_" gorn="0.2.0.0.0.0.0.0.9.0.0.0.0.0.0">VCC</text>
-                                                    </g>
-                                                </g>
-                                            </g>
-                                        </g>
-                                    </g>
-                                </g>
-                                <polygon  fill="none" stroke-width="1" id="polygon48" stroke="#000000" points="-6.218,0 50.494,0.003 50.494,43.66 -6.218,43.66 " gorn="0.2.0.0.0.0.0.0.10"/>
-                                <line  fill="none" stroke-width="1" id="connector10pin" y1="21.741" stroke="#000000" y2="21.741" gorn="0.2.0.0.0.0.0.0.11" x1="64.897" x2="50.492"/>
-                                <polygon  fill="none" id="connector3terminal_1_" points="64.8,21.738 64.893,21.738 64.893,21.741 64.893,21.741 " gorn="0.2.0.0.0.0.0.0.12"/>
-                                <polygon  fill="none" id="connector4terminal_1_" points="64.8,14.396 64.806,14.396 64.893,14.543 64.8,14.543 " gorn="0.2.0.0.0.0.0.0.13"/>
-                                <line  fill="none" stroke-width="1" id="connector12pin" y1="28.833" stroke="#000000" y2="28.833" gorn="0.2.0.0.0.0.0.0.14" x1="64.9" x2="50.495"/>
-                                <polygon  fill="none" id="connector3terminal_3_" points="64.802,28.829 64.896,28.829 64.896,28.833 64.896,28.833 " gorn="0.2.0.0.0.0.0.0.15"/>
-                                <polygon  fill="none" id="connector4terminal_3_" points="64.802,21.488 64.809,21.488 64.896,21.635 64.802,21.635 " gorn="0.2.0.0.0.0.0.0.16"/>
-                                <line  fill="none" stroke-width="1" id="connector13pin" y1="36.175" stroke="#000000" y2="36.175" gorn="0.2.0.0.0.0.0.0.17" x1="64.898" x2="50.493"/>
-                                <polygon  fill="none" id="connector3terminal_2_" points="64.801,36.171 64.894,36.171 64.894,36.175 64.894,36.175 " gorn="0.2.0.0.0.0.0.0.18"/>
-                                <polygon  fill="none" id="connector4terminal_2_" points="64.801,28.829 64.807,28.829 64.894,28.977 64.801,28.977 " gorn="0.2.0.0.0.0.0.0.19"/>
-                                <polygon  fill="none" id="connector3terminal_7_" points="64.802,43.513 64.896,43.513 64.896,43.517 64.896,43.517 " gorn="0.2.0.0.0.0.0.0.20"/>
-                                <polygon  fill="none" id="connector4terminal_7_" points="64.802,36.171 64.809,36.171 64.896,36.319 64.802,36.319 " gorn="0.2.0.0.0.0.0.0.21"/>
-                                <polygon  fill="none" id="connector4terminal_6_" points="64.801,43.513 64.807,43.513 64.894,43.66 64.801,43.66 " gorn="0.2.0.0.0.0.0.0.22"/>
-                                <g  transform="matrix(0.8074,0,0,1,43.089484,37.481752)">
-                                    <g >
-                                        <g >
-                                            <g  id="g62" gorn="0.2.0.0.0.0.0.0.23.0.0.0">
-                                                <g  id="g64" gorn="0.2.0.0.0.0.0.0.23.0.0.0.0">
-                                                    <g  id="g66" gorn="0.2.0.0.0.0.0.0.23.0.0.0.0.0">
-                                                        <text  font-size="4" style="font-size:4px;font-family:Droid Sans" id="text68" gorn="0.2.0.0.0.0.0.0.23.0.0.0.0.0.0">AD0</text>
-                                                    </g>
-                                                </g>
-                                            </g>
-                                        </g>
-                                    </g>
-                                </g>
-                                <g  transform="matrix(0.8074,0,0,1,43.037445,30.282549)">
-                                    <g >
-                                        <g >
-                                            <g  id="g70" gorn="0.2.0.0.0.0.0.0.24.0.0.0">
-                                                <g  id="g72" gorn="0.2.0.0.0.0.0.0.24.0.0.0.0">
-                                                    <g  id="g74" gorn="0.2.0.0.0.0.0.0.24.0.0.0.0.0">
-                                                        <text  font-size="4" style="font-size:4px;font-family:Droid Sans" id="_x30_.1.16_1_" gorn="0.2.0.0.0.0.0.0.24.0.0.0.0.0.0">SDA</text>
-                                                    </g>
-                                                </g>
-                                            </g>
-                                        </g>
-                                    </g>
-                                </g>
-                                <g  transform="matrix(0.9059,0,0,1,7.867421,23.260664)">
-                                    <g >
-                                        <g >
-                                            <g  id="g41" gorn="0.2.0.0.0.0.0.0.25.0.0.0">
-                                                <g  id="g43" gorn="0.2.0.0.0.0.0.0.25.0.0.0.0">
-                                                    <g  id="g45" gorn="0.2.0.0.0.0.0.0.25.0.0.0.0.0">
-                                                        <text  font-size="4" style="font-size:4px;font-family:Droid Sans" id="_x30_.1.22" gorn="0.2.0.0.0.0.0.0.25.0.0.0.0.0.0">BH1750FVI GY-30</text>
+                            </g>
+                        </g>
+                        <g transform="translate(6.1524,10.623)" >
+                            <g >
+                                <g >
+                                    <g id="g3688" gorn="0.2.4.0.0.0.1.0.0.0" >
+                                        <g id="g86" gorn="0.2.4.0.0.0.1.0.0.0.0" >
+                                            <g id="g88" gorn="0.2.4.0.0.0.1.0.0.0.0.0" >
+                                                <g id="g115" gorn="0.2.4.0.0.0.1.0.0.0.0.0.0" >
+                                                    <g id="g117" gorn="0.2.4.0.0.0.1.0.0.0.0.0.0.0" >
+                                                        <g id="g119" gorn="0.2.4.0.0.0.1.0.0.0.0.0.0.0.0" >
+                                                            <g id="g121" gorn="0.2.4.0.0.0.1.0.0.0.0.0.0.0.0.0" >
+                                                                <g id="g123" gorn="0.2.4.0.0.0.1.0.0.0.0.0.0.0.0.0.0" >
+                                                                    <g id="g125" gorn="0.2.4.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                        <g id="g127" gorn="0.2.4.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                            <text id="text129" gorn="0.2.4.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0" >BH1750FVI</text>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
                                                     </g>
                                                 </g>
                                             </g>
